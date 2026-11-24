@@ -1,0 +1,6779 @@
+[
+ {
+  "ma": "toan1",
+  "ten": "Toán 1",
+  "hinh": "toan1",
+  "lop": 1,
+  "goc": "",
+  "ds": [
+   {
+    "k": "khoi",
+    "t": "Học kì 1"
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai01",
+    "lid": "Toan1_Bai01",
+    "t": "Các số 0, 1, 2, 3, 4, 5",
+    "so": 1
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai02",
+    "lid": "Toan1_Bai02",
+    "t": "Các số 6, 7, 8, 9, 10",
+    "so": 2
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai03",
+    "lid": "Toan1_Bai03",
+    "t": "Nhiều hơn, ít hơn, bằng nhau",
+    "so": 3
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai04",
+    "lid": "Toan1_Bai04",
+    "t": "So sánh số",
+    "so": 4
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai05",
+    "lid": "Toan1_Bai05",
+    "t": "Mấy và mấy",
+    "so": 5
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai06",
+    "lid": "Toan1_Bai06",
+    "t": "Luyện tập chung",
+    "so": 6
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai07",
+    "lid": "Toan1_Bai07",
+    "t": "Hình vuông, hình tròn, hình tam giác, hình chữ nhật",
+    "so": 7
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai08",
+    "lid": "Toan1_Bai08",
+    "t": "Thực hành lắp ghép, xếp hình",
+    "so": 8
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai09",
+    "lid": "Toan1_Bai09",
+    "t": "Luyện tập chung",
+    "so": 9
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai10",
+    "lid": "Toan1_Bai10",
+    "t": "Phép cộng trong phạm vi 10",
+    "so": 10
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai11",
+    "lid": "Toan1_Bai11",
+    "t": "Phép trừ trong phạm vi 10",
+    "so": 11
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai12",
+    "lid": "Toan1_Bai12",
+    "t": "Bảng cộng, bảng trừ trong phạm vi 10",
+    "so": 12
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai13",
+    "lid": "Toan1_Bai13",
+    "t": "Luyện tập chung",
+    "so": 13
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập giữa học kì 1"
+   },
+   {
+    "k": "de",
+    "s": "toan1-gk1de1",
+    "lid": "Toan1_GK1De1",
+    "t": "Giữa học kì 1 – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "toan1-gk1de2",
+    "lid": "Toan1_GK1De2",
+    "t": "Giữa học kì 1 – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "toan1-gk1de3",
+    "lid": "Toan1_GK1De3",
+    "t": "Giữa học kì 1 – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "toan1-gk1de4",
+    "lid": "Toan1_GK1De4",
+    "t": "Giữa học kì 1 – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "toan1-gk1de5",
+    "lid": "Toan1_GK1De5",
+    "t": "Giữa học kì 1 – Đề 5",
+    "so": "5"
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai14",
+    "lid": "Toan1_Bai14",
+    "t": "Khối lập phương, khối hộp chữ nhật",
+    "so": 14
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai15",
+    "lid": "Toan1_Bai15",
+    "t": "Vị trí, định hướng trong không gian",
+    "so": 15
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai16",
+    "lid": "Toan1_Bai16",
+    "t": "Luyện tập chung",
+    "so": 16
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai17",
+    "lid": "Toan1_Bai17",
+    "t": "Ôn tập các số trong phạm vi 10",
+    "so": 17
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai18",
+    "lid": "Toan1_Bai18",
+    "t": "Ôn tập phép cộng, phép trừ trong phạm vi 10",
+    "so": 18
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai19",
+    "lid": "Toan1_Bai19",
+    "t": "Ôn tập hình học",
+    "so": 19
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai20",
+    "lid": "Toan1_Bai20",
+    "t": "Ôn tập chung",
+    "so": 20
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập cuối học kì 1"
+   },
+   {
+    "k": "de",
+    "s": "toan1-ck1de1",
+    "lid": "Toan1_CK1De1",
+    "t": "Cuối học kì 1 – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "toan1-ck1de2",
+    "lid": "Toan1_CK1De2",
+    "t": "Cuối học kì 1 – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "toan1-ck1de3",
+    "lid": "Toan1_CK1De3",
+    "t": "Cuối học kì 1 – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "toan1-ck1de4",
+    "lid": "Toan1_CK1De4",
+    "t": "Cuối học kì 1 – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "toan1-ck1de5",
+    "lid": "Toan1_CK1De5",
+    "t": "Cuối học kì 1 – Đề 5",
+    "so": "5"
+   },
+   {
+    "k": "khoi",
+    "t": "Học kì 2"
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai21",
+    "lid": "Toan1_Bai21",
+    "t": "Số có hai chữ số",
+    "so": 21
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai22",
+    "lid": "Toan1_Bai22",
+    "t": "So sánh số có hai chữ số",
+    "so": 22
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai23",
+    "lid": "Toan1_Bai23",
+    "t": "Bảng các số từ 1 đến 100",
+    "so": 23
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai24",
+    "lid": "Toan1_Bai24",
+    "t": "Luyện tập chung",
+    "so": 24
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai25",
+    "lid": "Toan1_Bai25",
+    "t": "Dài hơn, ngắn hơn",
+    "so": 25
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai26",
+    "lid": "Toan1_Bai26",
+    "t": "Đơn vị đo độ dài",
+    "so": 26
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai27",
+    "lid": "Toan1_Bai27",
+    "t": "Thực hành ước lượng và đo độ dài",
+    "so": 27
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai28",
+    "lid": "Toan1_Bai28",
+    "t": "Luyện tập chung",
+    "so": 28
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai29",
+    "lid": "Toan1_Bai29",
+    "t": "Phép cộng số có hai chữ số với số có một chữ số",
+    "so": 29
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai30",
+    "lid": "Toan1_Bai30",
+    "t": "Phép cộng số có hai chữ số với số có hai chữ số",
+    "so": 30
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai31",
+    "lid": "Toan1_Bai31",
+    "t": "Phép trừ số có hai chữ số cho số có một chữ số",
+    "so": 31
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai32",
+    "lid": "Toan1_Bai32",
+    "t": "Phép trừ số có hai chữ số cho số có hai chữ số",
+    "so": 32
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai33",
+    "lid": "Toan1_Bai33",
+    "t": "Luyện tập chung",
+    "so": 33
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập giữa học kì 2"
+   },
+   {
+    "k": "de",
+    "s": "toan1-gk2de1",
+    "lid": "Toan1_GK2De1",
+    "t": "Giữa học kì 2 – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "toan1-gk2de2",
+    "lid": "Toan1_GK2De2",
+    "t": "Giữa học kì 2 – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "toan1-gk2de3",
+    "lid": "Toan1_GK2De3",
+    "t": "Giữa học kì 2 – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "toan1-gk2de4",
+    "lid": "Toan1_GK2De4",
+    "t": "Giữa học kì 2 – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "toan1-gk2de5",
+    "lid": "Toan1_GK2De5",
+    "t": "Giữa học kì 2 – Đề 5",
+    "so": "5"
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai34",
+    "lid": "Toan1_Bai34",
+    "t": "Xem giờ đúng trên đồng hồ",
+    "so": 34
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai35",
+    "lid": "Toan1_Bai35",
+    "t": "Các ngày trong tuần",
+    "so": 35
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai36",
+    "lid": "Toan1_Bai36",
+    "t": "Thực hành xem lịch và giờ",
+    "so": 36
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai37",
+    "lid": "Toan1_Bai37",
+    "t": "Luyện tập chung",
+    "so": 37
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai38",
+    "lid": "Toan1_Bai38",
+    "t": "Ôn tập các số và phép tính trong phạm vi 10",
+    "so": 38
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai39",
+    "lid": "Toan1_Bai39",
+    "t": "Ôn tập các số và phép tính trong phạm vi 100",
+    "so": 39
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai40",
+    "lid": "Toan1_Bai40",
+    "t": "Ôn tập hình học và đo lường",
+    "so": 40
+   },
+   {
+    "k": "bai",
+    "s": "toan1-bai41",
+    "lid": "Toan1_Bai41",
+    "t": "Ôn tập chung",
+    "so": 41
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập cuối năm"
+   },
+   {
+    "k": "de",
+    "s": "toan1-cnde1",
+    "lid": "Toan1_CNDe1",
+    "t": "Cuối năm – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "toan1-cnde2",
+    "lid": "Toan1_CNDe2",
+    "t": "Cuối năm – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "toan1-cnde3",
+    "lid": "Toan1_CNDe3",
+    "t": "Cuối năm – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "toan1-cnde4",
+    "lid": "Toan1_CNDe4",
+    "t": "Cuối năm – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "toan1-cnde5",
+    "lid": "Toan1_CNDe5",
+    "t": "Cuối năm – Đề 5",
+    "so": "5"
+   }
+  ]
+ },
+ {
+  "ma": "tiengviet1",
+  "ten": "Tiếng Việt 1",
+  "hinh": "tv1",
+  "lop": 1,
+  "goc": "../dongocthanhdo-tv12/",
+  "ds": [
+   {
+    "k": "khoi",
+    "t": "Học kì 1"
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai01",
+    "lid": "TiengViet1_Bai01",
+    "t": "A a",
+    "so": 1
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai02",
+    "lid": "TiengViet1_Bai02",
+    "t": "B b, dấu huyền",
+    "so": 2
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai03",
+    "lid": "TiengViet1_Bai03",
+    "t": "C c, dấu sắc",
+    "so": 3
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai04",
+    "lid": "TiengViet1_Bai04",
+    "t": "E e, Ê ê",
+    "so": 4
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai05",
+    "lid": "TiengViet1_Bai05",
+    "t": "Ôn tập và kể chuyện",
+    "so": 5
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai06",
+    "lid": "TiengViet1_Bai06",
+    "t": "O o, dấu hỏi",
+    "so": 6
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai07",
+    "lid": "TiengViet1_Bai07",
+    "t": "Ô ô, dấu nặng",
+    "so": 7
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai08",
+    "lid": "TiengViet1_Bai08",
+    "t": "D d, Đ đ",
+    "so": 8
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai09",
+    "lid": "TiengViet1_Bai09",
+    "t": "Ơ ơ, dấu ngã",
+    "so": 9
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai10",
+    "lid": "TiengViet1_Bai10",
+    "t": "Ôn tập và kể chuyện",
+    "so": 10
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai11",
+    "lid": "TiengViet1_Bai11",
+    "t": "I i, K k",
+    "so": 11
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai12",
+    "lid": "TiengViet1_Bai12",
+    "t": "H h, L l",
+    "so": 12
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai13",
+    "lid": "TiengViet1_Bai13",
+    "t": "U u, Ư ư",
+    "so": 13
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai14",
+    "lid": "TiengViet1_Bai14",
+    "t": "Ch ch, Kh kh",
+    "so": 14
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai15",
+    "lid": "TiengViet1_Bai15",
+    "t": "Ôn tập và kể chuyện",
+    "so": 15
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai16",
+    "lid": "TiengViet1_Bai16",
+    "t": "M m, N n",
+    "so": 16
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai17",
+    "lid": "TiengViet1_Bai17",
+    "t": "G g, Gi gi",
+    "so": 17
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai18",
+    "lid": "TiengViet1_Bai18",
+    "t": "Gh gh, Nh nh",
+    "so": 18
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai19",
+    "lid": "TiengViet1_Bai19",
+    "t": "Ng ng, Ngh ngh",
+    "so": 19
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai20",
+    "lid": "TiengViet1_Bai20",
+    "t": "Ôn tập và kể chuyện",
+    "so": 20
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai21",
+    "lid": "TiengViet1_Bai21",
+    "t": "R r, S s",
+    "so": 21
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai22",
+    "lid": "TiengViet1_Bai22",
+    "t": "T t, Tr tr",
+    "so": 22
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai23",
+    "lid": "TiengViet1_Bai23",
+    "t": "Th th, ia",
+    "so": 23
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai24",
+    "lid": "TiengViet1_Bai24",
+    "t": "ua, ưa",
+    "so": 24
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai25",
+    "lid": "TiengViet1_Bai25",
+    "t": "Ôn tập và kể chuyện",
+    "so": 25
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai26",
+    "lid": "TiengViet1_Bai26",
+    "t": "Ph ph, Qu qu",
+    "so": 26
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai27",
+    "lid": "TiengViet1_Bai27",
+    "t": "V v, X x",
+    "so": 27
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai28",
+    "lid": "TiengViet1_Bai28",
+    "t": "Y y",
+    "so": 28
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai29",
+    "lid": "TiengViet1_Bai29",
+    "t": "Luyện tập chính tả",
+    "so": 29
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai30",
+    "lid": "TiengViet1_Bai30",
+    "t": "Ôn tập và kể chuyện",
+    "so": 30
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai31",
+    "lid": "TiengViet1_Bai31",
+    "t": "an, ăn, ân",
+    "so": 31
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai32",
+    "lid": "TiengViet1_Bai32",
+    "t": "on, ôn, ơn",
+    "so": 32
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai33",
+    "lid": "TiengViet1_Bai33",
+    "t": "en, ên, in, un",
+    "so": 33
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai34",
+    "lid": "TiengViet1_Bai34",
+    "t": "am, ăm, âm",
+    "so": 34
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai35",
+    "lid": "TiengViet1_Bai35",
+    "t": "Ôn tập và kể chuyện",
+    "so": 35
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai36",
+    "lid": "TiengViet1_Bai36",
+    "t": "om, ôm, ơm",
+    "so": 36
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai37",
+    "lid": "TiengViet1_Bai37",
+    "t": "em, êm, im, um",
+    "so": 37
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai38",
+    "lid": "TiengViet1_Bai38",
+    "t": "ai, ay, ây",
+    "so": 38
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai39",
+    "lid": "TiengViet1_Bai39",
+    "t": "oi, ôi, ơi",
+    "so": 39
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai40",
+    "lid": "TiengViet1_Bai40",
+    "t": "Ôn tập và kể chuyện",
+    "so": 40
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập giữa học kì 1"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet1-gk1de1",
+    "lid": "TiengViet1_GK1De1",
+    "t": "Giữa học kì 1 – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet1-gk1de2",
+    "lid": "TiengViet1_GK1De2",
+    "t": "Giữa học kì 1 – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet1-gk1de3",
+    "lid": "TiengViet1_GK1De3",
+    "t": "Giữa học kì 1 – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet1-gk1de4",
+    "lid": "TiengViet1_GK1De4",
+    "t": "Giữa học kì 1 – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet1-gk1de5",
+    "lid": "TiengViet1_GK1De5",
+    "t": "Giữa học kì 1 – Đề 5",
+    "so": "5"
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai41",
+    "lid": "TiengViet1_Bai41",
+    "t": "ui, ưi",
+    "so": 41
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai42",
+    "lid": "TiengViet1_Bai42",
+    "t": "ao, eo",
+    "so": 42
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai43",
+    "lid": "TiengViet1_Bai43",
+    "t": "au, âu, êu",
+    "so": 43
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai44",
+    "lid": "TiengViet1_Bai44",
+    "t": "iu, ưu",
+    "so": 44
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai45",
+    "lid": "TiengViet1_Bai45",
+    "t": "Ôn tập và kể chuyện",
+    "so": 45
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai46",
+    "lid": "TiengViet1_Bai46",
+    "t": "ac, ăc, âc",
+    "so": 46
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai47",
+    "lid": "TiengViet1_Bai47",
+    "t": "oc, ôc, uc, ưc",
+    "so": 47
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai48",
+    "lid": "TiengViet1_Bai48",
+    "t": "at, ăt, ât",
+    "so": 48
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai49",
+    "lid": "TiengViet1_Bai49",
+    "t": "ot, ôt, ơt",
+    "so": 49
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai50",
+    "lid": "TiengViet1_Bai50",
+    "t": "Ôn tập và kể chuyện",
+    "so": 50
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai51",
+    "lid": "TiengViet1_Bai51",
+    "t": "et, êt, it",
+    "so": 51
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai52",
+    "lid": "TiengViet1_Bai52",
+    "t": "ut, ưt",
+    "so": 52
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai53",
+    "lid": "TiengViet1_Bai53",
+    "t": "ap, ăp, âp",
+    "so": 53
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai54",
+    "lid": "TiengViet1_Bai54",
+    "t": "op, ôp, ơp",
+    "so": 54
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai55",
+    "lid": "TiengViet1_Bai55",
+    "t": "Ôn tập và kể chuyện",
+    "so": 55
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai56",
+    "lid": "TiengViet1_Bai56",
+    "t": "ep, êp, ip, up",
+    "so": 56
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai57",
+    "lid": "TiengViet1_Bai57",
+    "t": "anh, ênh, inh",
+    "so": 57
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai58",
+    "lid": "TiengViet1_Bai58",
+    "t": "ach, êch, ich",
+    "so": 58
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai59",
+    "lid": "TiengViet1_Bai59",
+    "t": "ang, ăng, âng",
+    "so": 59
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai60",
+    "lid": "TiengViet1_Bai60",
+    "t": "Ôn tập và kể chuyện",
+    "so": 60
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai61",
+    "lid": "TiengViet1_Bai61",
+    "t": "ong, ông, ung, ưng",
+    "so": 61
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai62",
+    "lid": "TiengViet1_Bai62",
+    "t": "iêc, iên, iêp",
+    "so": 62
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai63",
+    "lid": "TiengViet1_Bai63",
+    "t": "iêng, iêm, yên",
+    "so": 63
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai64",
+    "lid": "TiengViet1_Bai64",
+    "t": "iêt, iêu, yêu",
+    "so": 64
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai65",
+    "lid": "TiengViet1_Bai65",
+    "t": "Ôn tập và kể chuyện",
+    "so": 65
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai66",
+    "lid": "TiengViet1_Bai66",
+    "t": "uôi, uôm",
+    "so": 66
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai67",
+    "lid": "TiengViet1_Bai67",
+    "t": "uôc, uôt",
+    "so": 67
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai68",
+    "lid": "TiengViet1_Bai68",
+    "t": "uôn, uông",
+    "so": 68
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai69",
+    "lid": "TiengViet1_Bai69",
+    "t": "ươi, ươu",
+    "so": 69
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai70",
+    "lid": "TiengViet1_Bai70",
+    "t": "Ôn tập và kể chuyện",
+    "so": 70
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai71",
+    "lid": "TiengViet1_Bai71",
+    "t": "ươc, ươt",
+    "so": 71
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai72",
+    "lid": "TiengViet1_Bai72",
+    "t": "ươm, ươp",
+    "so": 72
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai73",
+    "lid": "TiengViet1_Bai73",
+    "t": "ươn, ương",
+    "so": 73
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai74",
+    "lid": "TiengViet1_Bai74",
+    "t": "oa, oe",
+    "so": 74
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai75",
+    "lid": "TiengViet1_Bai75",
+    "t": "Ôn tập và kể chuyện",
+    "so": 75
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai76",
+    "lid": "TiengViet1_Bai76",
+    "t": "oan, oăn, oat, oăt",
+    "so": 76
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai77",
+    "lid": "TiengViet1_Bai77",
+    "t": "oai, uê, uy",
+    "so": 77
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai78",
+    "lid": "TiengViet1_Bai78",
+    "t": "uân, uât",
+    "so": 78
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai79",
+    "lid": "TiengViet1_Bai79",
+    "t": "uyên, uyêt",
+    "so": 79
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai80",
+    "lid": "TiengViet1_Bai80",
+    "t": "Ôn tập và kể chuyện",
+    "so": 80
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai81",
+    "lid": "TiengViet1_Bai81",
+    "t": "Ôn tập",
+    "so": 81
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai82",
+    "lid": "TiengViet1_Bai82",
+    "t": "Ôn tập",
+    "so": 82
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai83",
+    "lid": "TiengViet1_Bai83",
+    "t": "Ôn tập",
+    "so": 83
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập cuối học kì 1"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet1-ck1de1",
+    "lid": "TiengViet1_CK1De1",
+    "t": "Cuối học kì 1 – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet1-ck1de2",
+    "lid": "TiengViet1_CK1De2",
+    "t": "Cuối học kì 1 – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet1-ck1de3",
+    "lid": "TiengViet1_CK1De3",
+    "t": "Cuối học kì 1 – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet1-ck1de4",
+    "lid": "TiengViet1_CK1De4",
+    "t": "Cuối học kì 1 – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet1-ck1de5",
+    "lid": "TiengViet1_CK1De5",
+    "t": "Cuối học kì 1 – Đề 5",
+    "so": "5"
+   },
+   {
+    "k": "khoi",
+    "t": "Học kì 2"
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai84",
+    "lid": "TiengViet1_Bai84",
+    "t": "Tôi là học sinh lớp 1",
+    "so": 84
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai85",
+    "lid": "TiengViet1_Bai85",
+    "t": "Đôi tai xấu xí",
+    "so": 85
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai86",
+    "lid": "TiengViet1_Bai86",
+    "t": "Bạn của gió",
+    "so": 86
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai87",
+    "lid": "TiengViet1_Bai87",
+    "t": "Giải thưởng tình bạn",
+    "so": 87
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai88",
+    "lid": "TiengViet1_Bai88",
+    "t": "Sinh nhật của voi con",
+    "so": 88
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai89",
+    "lid": "TiengViet1_Bai89",
+    "t": "Nụ hôn trên bàn tay",
+    "so": 89
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai90",
+    "lid": "TiengViet1_Bai90",
+    "t": "Làm anh",
+    "so": 90
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai91",
+    "lid": "TiengViet1_Bai91",
+    "t": "Cả nhà đi chơi núi",
+    "so": 91
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai92",
+    "lid": "TiengViet1_Bai92",
+    "t": "Quạt cho bà ngủ",
+    "so": 92
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai93",
+    "lid": "TiengViet1_Bai93",
+    "t": "Bữa cơm gia đình",
+    "so": 93
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai94",
+    "lid": "TiengViet1_Bai94",
+    "t": "Ngôi nhà",
+    "so": 94
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai95",
+    "lid": "TiengViet1_Bai95",
+    "t": "Tôi đi học",
+    "so": 95
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai96",
+    "lid": "TiengViet1_Bai96",
+    "t": "Đi học",
+    "so": 96
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai97",
+    "lid": "TiengViet1_Bai97",
+    "t": "Hoa yêu thương",
+    "so": 97
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai98",
+    "lid": "TiengViet1_Bai98",
+    "t": "Cây bàng và lớp học",
+    "so": 98
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai99",
+    "lid": "TiengViet1_Bai99",
+    "t": "Bác trống trường",
+    "so": 99
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai100",
+    "lid": "TiengViet1_Bai100",
+    "t": "Giờ ra chơi",
+    "so": 100
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai101",
+    "lid": "TiengViet1_Bai101",
+    "t": "Rửa tay trước khi ăn",
+    "so": 101
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai102",
+    "lid": "TiengViet1_Bai102",
+    "t": "Lời chào đi trước",
+    "so": 102
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai103",
+    "lid": "TiengViet1_Bai103",
+    "t": "Khi mẹ vắng nhà",
+    "so": 103
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai104",
+    "lid": "TiengViet1_Bai104",
+    "t": "Nếu không may bị lạc",
+    "so": 104
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai105",
+    "lid": "TiengViet1_Bai105",
+    "t": "Đèn giao thông",
+    "so": 105
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập giữa học kì 2"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet1-gk2de1",
+    "lid": "TiengViet1_GK2De1",
+    "t": "Giữa học kì 2 – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet1-gk2de2",
+    "lid": "TiengViet1_GK2De2",
+    "t": "Giữa học kì 2 – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet1-gk2de3",
+    "lid": "TiengViet1_GK2De3",
+    "t": "Giữa học kì 2 – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet1-gk2de4",
+    "lid": "TiengViet1_GK2De4",
+    "t": "Giữa học kì 2 – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet1-gk2de5",
+    "lid": "TiengViet1_GK2De5",
+    "t": "Giữa học kì 2 – Đề 5",
+    "so": "5"
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai106",
+    "lid": "TiengViet1_Bai106",
+    "t": "Kiến và chim bồ câu",
+    "so": 106
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai107",
+    "lid": "TiengViet1_Bai107",
+    "t": "Câu chuyện của rễ",
+    "so": 107
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai108",
+    "lid": "TiengViet1_Bai108",
+    "t": "Câu hỏi của sói",
+    "so": 108
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai109",
+    "lid": "TiengViet1_Bai109",
+    "t": "Chú bé chăn cừu",
+    "so": 109
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai110",
+    "lid": "TiengViet1_Bai110",
+    "t": "Tiếng vọng của núi",
+    "so": 110
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai111",
+    "lid": "TiengViet1_Bai111",
+    "t": "Loài chim của biển cả",
+    "so": 111
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai112",
+    "lid": "TiengViet1_Bai112",
+    "t": "Bảy sắc cầu vồng",
+    "so": 112
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai113",
+    "lid": "TiengViet1_Bai113",
+    "t": "Chúa tể rừng xanh",
+    "so": 113
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai114",
+    "lid": "TiengViet1_Bai114",
+    "t": "Cuộc thi tài năng rừng xanh",
+    "so": 114
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai115",
+    "lid": "TiengViet1_Bai115",
+    "t": "Cây liễu dẻo dai",
+    "so": 115
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai116",
+    "lid": "TiengViet1_Bai116",
+    "t": "Tia nắng đi đâu?",
+    "so": 116
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai117",
+    "lid": "TiengViet1_Bai117",
+    "t": "Trong giấc mơ buổi sáng",
+    "so": 117
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai118",
+    "lid": "TiengViet1_Bai118",
+    "t": "Ngày mới bắt đầu",
+    "so": 118
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai119",
+    "lid": "TiengViet1_Bai119",
+    "t": "Hỏi mẹ",
+    "so": 119
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai120",
+    "lid": "TiengViet1_Bai120",
+    "t": "Những cánh cò",
+    "so": 120
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai121",
+    "lid": "TiengViet1_Bai121",
+    "t": "Buổi trưa hè",
+    "so": 121
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai122",
+    "lid": "TiengViet1_Bai122",
+    "t": "Hoa phượng",
+    "so": 122
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai123",
+    "lid": "TiengViet1_Bai123",
+    "t": "Cậu bé thông minh",
+    "so": 123
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai124",
+    "lid": "TiengViet1_Bai124",
+    "t": "Lính cứu hoả",
+    "so": 124
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai125",
+    "lid": "TiengViet1_Bai125",
+    "t": "Lớn lên bạn làm gì?",
+    "so": 125
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai126",
+    "lid": "TiengViet1_Bai126",
+    "t": "Ruộng bậc thang ở Sa Pa",
+    "so": 126
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai127",
+    "lid": "TiengViet1_Bai127",
+    "t": "Nhớ ơn",
+    "so": 127
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet1-bai128",
+    "lid": "TiengViet1_Bai128",
+    "t": "Du lịch biển Việt Nam",
+    "so": 128
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập cuối năm"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet1-cnde1",
+    "lid": "TiengViet1_CNDe1",
+    "t": "Cuối năm – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet1-cnde2",
+    "lid": "TiengViet1_CNDe2",
+    "t": "Cuối năm – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet1-cnde3",
+    "lid": "TiengViet1_CNDe3",
+    "t": "Cuối năm – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet1-cnde4",
+    "lid": "TiengViet1_CNDe4",
+    "t": "Cuối năm – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet1-cnde5",
+    "lid": "TiengViet1_CNDe5",
+    "t": "Cuối năm – Đề 5",
+    "so": "5"
+   }
+  ]
+ },
+ {
+  "ma": "toan2",
+  "ten": "Toán 2",
+  "hinh": "toan2",
+  "lop": 2,
+  "goc": "",
+  "ds": [
+   {
+    "k": "khoi",
+    "t": "Học kì 1"
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai01",
+    "lid": "Toan2_Bai01",
+    "t": "Ôn tập các số đến 100",
+    "so": 1
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai02",
+    "lid": "Toan2_Bai02",
+    "t": "Tia số. Số liền trước, số liền sau",
+    "so": 2
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai03",
+    "lid": "Toan2_Bai03",
+    "t": "Các thành phần của phép cộng, phép trừ",
+    "so": 3
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai04",
+    "lid": "Toan2_Bai04",
+    "t": "Hơn, kém nhau bao nhiêu",
+    "so": 4
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai05",
+    "lid": "Toan2_Bai05",
+    "t": "Ôn tập phép cộng, phép trừ (không nhớ) trong phạm vi 100",
+    "so": 5
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai06",
+    "lid": "Toan2_Bai06",
+    "t": "Luyện tập chung",
+    "so": 6
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai07",
+    "lid": "Toan2_Bai07",
+    "t": "Phép cộng (qua 10) trong phạm vi 20",
+    "so": 7
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai08",
+    "lid": "Toan2_Bai08",
+    "t": "Bảng cộng (qua 10)",
+    "so": 8
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai09",
+    "lid": "Toan2_Bai09",
+    "t": "Bài toán về thêm, bớt một số đơn vị",
+    "so": 9
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai10",
+    "lid": "Toan2_Bai10",
+    "t": "Luyện tập chung",
+    "so": 10
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai11",
+    "lid": "Toan2_Bai11",
+    "t": "Phép trừ (qua 10) trong phạm vi 20",
+    "so": 11
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai12",
+    "lid": "Toan2_Bai12",
+    "t": "Bảng trừ (qua 10)",
+    "so": 12
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai13",
+    "lid": "Toan2_Bai13",
+    "t": "Bài toán về nhiều hơn, ít hơn một số đơn vị",
+    "so": 13
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai14",
+    "lid": "Toan2_Bai14",
+    "t": "Luyện tập chung",
+    "so": 14
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai15",
+    "lid": "Toan2_Bai15",
+    "t": "Ki-lô-gam",
+    "so": 15
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai16",
+    "lid": "Toan2_Bai16",
+    "t": "Lít",
+    "so": 16
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai17",
+    "lid": "Toan2_Bai17",
+    "t": "Thực hành và trải nghiệm với các đơn vị ki-lô-gam, lít",
+    "so": 17
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai18",
+    "lid": "Toan2_Bai18",
+    "t": "Luyện tập chung",
+    "so": 18
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập giữa học kì 1"
+   },
+   {
+    "k": "de",
+    "s": "toan2-gk1de1",
+    "lid": "Toan2_GK1De1",
+    "t": "Giữa học kì 1 – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "toan2-gk1de2",
+    "lid": "Toan2_GK1De2",
+    "t": "Giữa học kì 1 – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "toan2-gk1de3",
+    "lid": "Toan2_GK1De3",
+    "t": "Giữa học kì 1 – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "toan2-gk1de4",
+    "lid": "Toan2_GK1De4",
+    "t": "Giữa học kì 1 – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "toan2-gk1de5",
+    "lid": "Toan2_GK1De5",
+    "t": "Giữa học kì 1 – Đề 5",
+    "so": "5"
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai19",
+    "lid": "Toan2_Bai19",
+    "t": "Phép cộng (có nhớ) số có hai chữ số với số có một chữ số",
+    "so": 19
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai20",
+    "lid": "Toan2_Bai20",
+    "t": "Phép cộng (có nhớ) số có hai chữ số với số có hai chữ số",
+    "so": 20
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai21",
+    "lid": "Toan2_Bai21",
+    "t": "Luyện tập chung",
+    "so": 21
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai22",
+    "lid": "Toan2_Bai22",
+    "t": "Phép trừ (có nhớ) số có hai chữ số cho số có một chữ số",
+    "so": 22
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai23",
+    "lid": "Toan2_Bai23",
+    "t": "Phép trừ (có nhớ) số có hai chữ số cho số có hai chữ số",
+    "so": 23
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai24",
+    "lid": "Toan2_Bai24",
+    "t": "Luyện tập chung",
+    "so": 24
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai25",
+    "lid": "Toan2_Bai25",
+    "t": "Điểm, đoạn thẳng, đường thẳng, đường cong, ba điểm thẳng hàng",
+    "so": 25
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai26",
+    "lid": "Toan2_Bai26",
+    "t": "Đường gấp khúc. Hình tứ giác",
+    "so": 26
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai27",
+    "lid": "Toan2_Bai27",
+    "t": "Thực hành gấp, cắt, ghép, xếp hình. Vẽ đoạn thẳng",
+    "so": 27
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai28",
+    "lid": "Toan2_Bai28",
+    "t": "Luyện tập chung",
+    "so": 28
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai29",
+    "lid": "Toan2_Bai29",
+    "t": "Ngày – giờ, giờ – phút",
+    "so": 29
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai30",
+    "lid": "Toan2_Bai30",
+    "t": "Ngày – tháng",
+    "so": 30
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai31",
+    "lid": "Toan2_Bai31",
+    "t": "Thực hành và trải nghiệm xem đồng hồ, xem lịch",
+    "so": 31
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai32",
+    "lid": "Toan2_Bai32",
+    "t": "Luyện tập chung",
+    "so": 32
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai33",
+    "lid": "Toan2_Bai33",
+    "t": "Ôn tập phép cộng, phép trừ trong phạm vi 20, 100",
+    "so": 33
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai34",
+    "lid": "Toan2_Bai34",
+    "t": "Ôn tập hình phẳng",
+    "so": 34
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai35",
+    "lid": "Toan2_Bai35",
+    "t": "Ôn tập đo lường",
+    "so": 35
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai36",
+    "lid": "Toan2_Bai36",
+    "t": "Ôn tập chung",
+    "so": 36
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập cuối học kì 1"
+   },
+   {
+    "k": "de",
+    "s": "toan2-ck1de1",
+    "lid": "Toan2_CK1De1",
+    "t": "Cuối học kì 1 – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "toan2-ck1de2",
+    "lid": "Toan2_CK1De2",
+    "t": "Cuối học kì 1 – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "toan2-ck1de3",
+    "lid": "Toan2_CK1De3",
+    "t": "Cuối học kì 1 – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "toan2-ck1de4",
+    "lid": "Toan2_CK1De4",
+    "t": "Cuối học kì 1 – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "toan2-ck1de5",
+    "lid": "Toan2_CK1De5",
+    "t": "Cuối học kì 1 – Đề 5",
+    "so": "5"
+   },
+   {
+    "k": "khoi",
+    "t": "Học kì 2"
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai37",
+    "lid": "Toan2_Bai37",
+    "t": "Phép nhân",
+    "so": 37
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai38",
+    "lid": "Toan2_Bai38",
+    "t": "Thừa số, tích",
+    "so": 38
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai39",
+    "lid": "Toan2_Bai39",
+    "t": "Bảng nhân 2",
+    "so": 39
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai40",
+    "lid": "Toan2_Bai40",
+    "t": "Bảng nhân 5",
+    "so": 40
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai41",
+    "lid": "Toan2_Bai41",
+    "t": "Phép chia",
+    "so": 41
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai42",
+    "lid": "Toan2_Bai42",
+    "t": "Số bị chia, số chia, thương",
+    "so": 42
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai43",
+    "lid": "Toan2_Bai43",
+    "t": "Bảng chia 2",
+    "so": 43
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai44",
+    "lid": "Toan2_Bai44",
+    "t": "Bảng chia 5",
+    "so": 44
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai45",
+    "lid": "Toan2_Bai45",
+    "t": "Luyện tập chung",
+    "so": 45
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai46",
+    "lid": "Toan2_Bai46",
+    "t": "Khối trụ, khối cầu",
+    "so": 46
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai47",
+    "lid": "Toan2_Bai47",
+    "t": "Luyện tập chung",
+    "so": 47
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai48",
+    "lid": "Toan2_Bai48",
+    "t": "Đơn vị, chục, trăm, nghìn",
+    "so": 48
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai49",
+    "lid": "Toan2_Bai49",
+    "t": "Các số tròn trăm, tròn chục",
+    "so": 49
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai50",
+    "lid": "Toan2_Bai50",
+    "t": "So sánh các số tròn trăm, tròn chục",
+    "so": 50
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai51",
+    "lid": "Toan2_Bai51",
+    "t": "Số có ba chữ số",
+    "so": 51
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai52",
+    "lid": "Toan2_Bai52",
+    "t": "Viết số thành tổng các trăm, chục, đơn vị",
+    "so": 52
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai53",
+    "lid": "Toan2_Bai53",
+    "t": "So sánh các số có ba chữ số",
+    "so": 53
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai54",
+    "lid": "Toan2_Bai54",
+    "t": "Luyện tập chung",
+    "so": 54
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập giữa học kì 2"
+   },
+   {
+    "k": "de",
+    "s": "toan2-gk2de1",
+    "lid": "Toan2_GK2De1",
+    "t": "Giữa học kì 2 – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "toan2-gk2de2",
+    "lid": "Toan2_GK2De2",
+    "t": "Giữa học kì 2 – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "toan2-gk2de3",
+    "lid": "Toan2_GK2De3",
+    "t": "Giữa học kì 2 – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "toan2-gk2de4",
+    "lid": "Toan2_GK2De4",
+    "t": "Giữa học kì 2 – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "toan2-gk2de5",
+    "lid": "Toan2_GK2De5",
+    "t": "Giữa học kì 2 – Đề 5",
+    "so": "5"
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai55",
+    "lid": "Toan2_Bai55",
+    "t": "Đề-xi-mét. Mét. Ki-lô-mét",
+    "so": 55
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai56",
+    "lid": "Toan2_Bai56",
+    "t": "Giới thiệu tiền Việt Nam",
+    "so": 56
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai57",
+    "lid": "Toan2_Bai57",
+    "t": "Thực hành và trải nghiệm đo độ dài",
+    "so": 57
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai58",
+    "lid": "Toan2_Bai58",
+    "t": "Luyện tập chung",
+    "so": 58
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai59",
+    "lid": "Toan2_Bai59",
+    "t": "Phép cộng (không nhớ) trong phạm vi 1 000",
+    "so": 59
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai60",
+    "lid": "Toan2_Bai60",
+    "t": "Phép cộng (có nhớ) trong phạm vi 1 000",
+    "so": 60
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai61",
+    "lid": "Toan2_Bai61",
+    "t": "Phép trừ (không nhớ) trong phạm vi 1 000",
+    "so": 61
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai62",
+    "lid": "Toan2_Bai62",
+    "t": "Phép trừ (có nhớ) trong phạm vi 1 000",
+    "so": 62
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai63",
+    "lid": "Toan2_Bai63",
+    "t": "Luyện tập chung",
+    "so": 63
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai64",
+    "lid": "Toan2_Bai64",
+    "t": "Thu thập, phân loại, kiểm đếm số liệu",
+    "so": 64
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai65",
+    "lid": "Toan2_Bai65",
+    "t": "Biểu đồ tranh",
+    "so": 65
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai66",
+    "lid": "Toan2_Bai66",
+    "t": "Chắc chắn, có thể, không thể",
+    "so": 66
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai67",
+    "lid": "Toan2_Bai67",
+    "t": "Thực hành và trải nghiệm thu thập, phân loại, kiểm đếm số liệu",
+    "so": 67
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai68",
+    "lid": "Toan2_Bai68",
+    "t": "Ôn tập các số trong phạm vi 1 000",
+    "so": 68
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai69",
+    "lid": "Toan2_Bai69",
+    "t": "Ôn tập phép cộng, phép trừ trong phạm vi 100",
+    "so": 69
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai70",
+    "lid": "Toan2_Bai70",
+    "t": "Ôn tập phép cộng, phép trừ trong phạm vi 1 000",
+    "so": 70
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai71",
+    "lid": "Toan2_Bai71",
+    "t": "Ôn tập phép nhân, phép chia",
+    "so": 71
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai72",
+    "lid": "Toan2_Bai72",
+    "t": "Ôn tập hình học",
+    "so": 72
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai73",
+    "lid": "Toan2_Bai73",
+    "t": "Ôn tập đo lường",
+    "so": 73
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai74",
+    "lid": "Toan2_Bai74",
+    "t": "Ôn tập kiểm đếm số liệu và lựa chọn khả năng",
+    "so": 74
+   },
+   {
+    "k": "bai",
+    "s": "toan2-bai75",
+    "lid": "Toan2_Bai75",
+    "t": "Ôn tập chung",
+    "so": 75
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập cuối năm"
+   },
+   {
+    "k": "de",
+    "s": "toan2-cnde1",
+    "lid": "Toan2_CNDe1",
+    "t": "Cuối năm – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "toan2-cnde2",
+    "lid": "Toan2_CNDe2",
+    "t": "Cuối năm – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "toan2-cnde3",
+    "lid": "Toan2_CNDe3",
+    "t": "Cuối năm – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "toan2-cnde4",
+    "lid": "Toan2_CNDe4",
+    "t": "Cuối năm – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "toan2-cnde5",
+    "lid": "Toan2_CNDe5",
+    "t": "Cuối năm – Đề 5",
+    "so": "5"
+   }
+  ]
+ },
+ {
+  "ma": "tiengviet2",
+  "ten": "Tiếng Việt 2",
+  "hinh": "tv2",
+  "lop": 2,
+  "goc": "../dongocthanhdo-tv12/",
+  "ds": [
+   {
+    "k": "khoi",
+    "t": "Học kì 1"
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai01",
+    "lid": "TiengViet2_Bai01",
+    "t": "Tôi là học sinh lớp 2",
+    "so": 1
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai02",
+    "lid": "TiengViet2_Bai02",
+    "t": "Ngày hôm qua đâu rồi?",
+    "so": 2
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai03",
+    "lid": "TiengViet2_Bai03",
+    "t": "Niềm vui của Bi và Bống",
+    "so": 3
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai04",
+    "lid": "TiengViet2_Bai04",
+    "t": "Làm việc thật là vui",
+    "so": 4
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai05",
+    "lid": "TiengViet2_Bai05",
+    "t": "Em có xinh không?",
+    "so": 5
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai06",
+    "lid": "TiengViet2_Bai06",
+    "t": "Một giờ học",
+    "so": 6
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai07",
+    "lid": "TiengViet2_Bai07",
+    "t": "Cây xấu hổ",
+    "so": 7
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai08",
+    "lid": "TiengViet2_Bai08",
+    "t": "Cầu thủ dự bị",
+    "so": 8
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai09",
+    "lid": "TiengViet2_Bai09",
+    "t": "Cô giáo lớp em",
+    "so": 9
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai10",
+    "lid": "TiengViet2_Bai10",
+    "t": "Thời khoá biểu",
+    "so": 10
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai11",
+    "lid": "TiengViet2_Bai11",
+    "t": "Cái trống trường em",
+    "so": 11
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai12",
+    "lid": "TiengViet2_Bai12",
+    "t": "Danh sách học sinh",
+    "so": 12
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai13",
+    "lid": "TiengViet2_Bai13",
+    "t": "Yêu lắm trường ơi!",
+    "so": 13
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai14",
+    "lid": "TiengViet2_Bai14",
+    "t": "Em học vẽ",
+    "so": 14
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai15",
+    "lid": "TiengViet2_Bai15",
+    "t": "Cuốn sách của em",
+    "so": 15
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai16",
+    "lid": "TiengViet2_Bai16",
+    "t": "Khi trang sách mở ra",
+    "so": 16
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập giữa học kì 1"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet2-gk1de1",
+    "lid": "TiengViet2_GK1De1",
+    "t": "Giữa học kì 1 – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet2-gk1de2",
+    "lid": "TiengViet2_GK1De2",
+    "t": "Giữa học kì 1 – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet2-gk1de3",
+    "lid": "TiengViet2_GK1De3",
+    "t": "Giữa học kì 1 – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet2-gk1de4",
+    "lid": "TiengViet2_GK1De4",
+    "t": "Giữa học kì 1 – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet2-gk1de5",
+    "lid": "TiengViet2_GK1De5",
+    "t": "Giữa học kì 1 – Đề 5",
+    "so": "5"
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai17",
+    "lid": "TiengViet2_Bai17",
+    "t": "Gọi bạn",
+    "so": 17
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai18",
+    "lid": "TiengViet2_Bai18",
+    "t": "Tớ nhớ cậu",
+    "so": 18
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai19",
+    "lid": "TiengViet2_Bai19",
+    "t": "Chữ A và những người bạn",
+    "so": 19
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai20",
+    "lid": "TiengViet2_Bai20",
+    "t": "Nhím nâu kết bạn",
+    "so": 20
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai21",
+    "lid": "TiengViet2_Bai21",
+    "t": "Thả diều",
+    "so": 21
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai22",
+    "lid": "TiengViet2_Bai22",
+    "t": "Tớ là lê-gô",
+    "so": 22
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai23",
+    "lid": "TiengViet2_Bai23",
+    "t": "Rồng rắn lên mây",
+    "so": 23
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai24",
+    "lid": "TiengViet2_Bai24",
+    "t": "Nặn đồ chơi",
+    "so": 24
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai25",
+    "lid": "TiengViet2_Bai25",
+    "t": "Sự tích hoa tỉ muội",
+    "so": 25
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai26",
+    "lid": "TiengViet2_Bai26",
+    "t": "Em mang về yêu thương",
+    "so": 26
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai27",
+    "lid": "TiengViet2_Bai27",
+    "t": "Mẹ",
+    "so": 27
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai28",
+    "lid": "TiengViet2_Bai28",
+    "t": "Trò chơi của bố",
+    "so": 28
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai29",
+    "lid": "TiengViet2_Bai29",
+    "t": "Cánh cửa nhớ bà",
+    "so": 29
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai30",
+    "lid": "TiengViet2_Bai30",
+    "t": "Thương ông",
+    "so": 30
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai31",
+    "lid": "TiengViet2_Bai31",
+    "t": "Ánh sáng của yêu thương",
+    "so": 31
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai32",
+    "lid": "TiengViet2_Bai32",
+    "t": "Chơi chong chóng",
+    "so": 32
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập cuối học kì 1"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet2-ck1de1",
+    "lid": "TiengViet2_CK1De1",
+    "t": "Cuối học kì 1 – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet2-ck1de2",
+    "lid": "TiengViet2_CK1De2",
+    "t": "Cuối học kì 1 – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet2-ck1de3",
+    "lid": "TiengViet2_CK1De3",
+    "t": "Cuối học kì 1 – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet2-ck1de4",
+    "lid": "TiengViet2_CK1De4",
+    "t": "Cuối học kì 1 – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet2-ck1de5",
+    "lid": "TiengViet2_CK1De5",
+    "t": "Cuối học kì 1 – Đề 5",
+    "so": "5"
+   },
+   {
+    "k": "khoi",
+    "t": "Học kì 2"
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai33",
+    "lid": "TiengViet2_Bai33",
+    "t": "Chuyện bốn mùa",
+    "so": 33
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai34",
+    "lid": "TiengViet2_Bai34",
+    "t": "Mùa nước nổi",
+    "so": 34
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai35",
+    "lid": "TiengViet2_Bai35",
+    "t": "Hoạ mi hót",
+    "so": 35
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai36",
+    "lid": "TiengViet2_Bai36",
+    "t": "Tết đến rồi",
+    "so": 36
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai37",
+    "lid": "TiengViet2_Bai37",
+    "t": "Giọt nước và biển lớn",
+    "so": 37
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai38",
+    "lid": "TiengViet2_Bai38",
+    "t": "Mùa vàng",
+    "so": 38
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai39",
+    "lid": "TiengViet2_Bai39",
+    "t": "Hạt thóc",
+    "so": 39
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai40",
+    "lid": "TiengViet2_Bai40",
+    "t": "Luỹ tre",
+    "so": 40
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai41",
+    "lid": "TiengViet2_Bai41",
+    "t": "Vè chim",
+    "so": 41
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai42",
+    "lid": "TiengViet2_Bai42",
+    "t": "Khủng long",
+    "so": 42
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai43",
+    "lid": "TiengViet2_Bai43",
+    "t": "Sự tích cây thì là",
+    "so": 43
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai44",
+    "lid": "TiengViet2_Bai44",
+    "t": "Bờ tre đón khách",
+    "so": 44
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai45",
+    "lid": "TiengViet2_Bai45",
+    "t": "Tiếng chổi tre",
+    "so": 45
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai46",
+    "lid": "TiengViet2_Bai46",
+    "t": "Cỏ non cười rồi",
+    "so": 46
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai47",
+    "lid": "TiengViet2_Bai47",
+    "t": "Những con sao biển",
+    "so": 47
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai48",
+    "lid": "TiengViet2_Bai48",
+    "t": "Tạm biệt cánh cam",
+    "so": 48
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập giữa học kì 2"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet2-gk2de1",
+    "lid": "TiengViet2_GK2De1",
+    "t": "Giữa học kì 2 – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet2-gk2de2",
+    "lid": "TiengViet2_GK2De2",
+    "t": "Giữa học kì 2 – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet2-gk2de3",
+    "lid": "TiengViet2_GK2De3",
+    "t": "Giữa học kì 2 – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet2-gk2de4",
+    "lid": "TiengViet2_GK2De4",
+    "t": "Giữa học kì 2 – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet2-gk2de5",
+    "lid": "TiengViet2_GK2De5",
+    "t": "Giữa học kì 2 – Đề 5",
+    "so": "5"
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai49",
+    "lid": "TiengViet2_Bai49",
+    "t": "Những cách chào độc đáo",
+    "so": 49
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai50",
+    "lid": "TiengViet2_Bai50",
+    "t": "Thư viện biết đi",
+    "so": 50
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai51",
+    "lid": "TiengViet2_Bai51",
+    "t": "Cảm ơn anh hà mã",
+    "so": 51
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai52",
+    "lid": "TiengViet2_Bai52",
+    "t": "Từ chú bồ câu đến in-tơ-nét",
+    "so": 52
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai53",
+    "lid": "TiengViet2_Bai53",
+    "t": "Mai An Tiêm",
+    "so": 53
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai54",
+    "lid": "TiengViet2_Bai54",
+    "t": "Thư gửi bố ngoài đảo",
+    "so": 54
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai55",
+    "lid": "TiengViet2_Bai55",
+    "t": "Bóp nát quả cam",
+    "so": 55
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai56",
+    "lid": "TiengViet2_Bai56",
+    "t": "Chiếc rễ đa tròn",
+    "so": 56
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai57",
+    "lid": "TiengViet2_Bai57",
+    "t": "Đất nước chúng mình",
+    "so": 57
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai58",
+    "lid": "TiengViet2_Bai58",
+    "t": "Trên các miền đất nước",
+    "so": 58
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai59",
+    "lid": "TiengViet2_Bai59",
+    "t": "Chuyện quả bầu",
+    "so": 59
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai60",
+    "lid": "TiengViet2_Bai60",
+    "t": "Khám phá đáy biển ở Trường Sa",
+    "so": 60
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai61",
+    "lid": "TiengViet2_Bai61",
+    "t": "Hồ Gươm",
+    "so": 61
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet2-bai62",
+    "lid": "TiengViet2_Bai62",
+    "t": "Cánh đồng quê em",
+    "so": 62
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập cuối năm"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet2-cnde1",
+    "lid": "TiengViet2_CNDe1",
+    "t": "Cuối năm – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet2-cnde2",
+    "lid": "TiengViet2_CNDe2",
+    "t": "Cuối năm – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet2-cnde3",
+    "lid": "TiengViet2_CNDe3",
+    "t": "Cuối năm – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet2-cnde4",
+    "lid": "TiengViet2_CNDe4",
+    "t": "Cuối năm – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet2-cnde5",
+    "lid": "TiengViet2_CNDe5",
+    "t": "Cuối năm – Đề 5",
+    "so": "5"
+   }
+  ]
+ },
+ {
+  "ma": "toan3",
+  "ten": "Toán 3",
+  "hinh": "toan3",
+  "lop": 3,
+  "goc": "",
+  "ds": [
+   {
+    "k": "khoi",
+    "t": "Học kì 1"
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai01",
+    "lid": "Toan3_Bai01",
+    "t": "Ôn tập các số đến 1 000",
+    "so": 1
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai02",
+    "lid": "Toan3_Bai02",
+    "t": "Ôn tập phép cộng, phép trừ trong phạm vi 1 000",
+    "so": 2
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai03",
+    "lid": "Toan3_Bai03",
+    "t": "Tìm thành phần trong phép cộng, phép trừ",
+    "so": 3
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai04",
+    "lid": "Toan3_Bai04",
+    "t": "Ôn tập bảng nhân 2; 5, bảng chia 2; 5",
+    "so": 4
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai05",
+    "lid": "Toan3_Bai05",
+    "t": "Bảng nhân 3, bảng chia 3",
+    "so": 5
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai06",
+    "lid": "Toan3_Bai06",
+    "t": "Bảng nhân 4, bảng chia 4",
+    "so": 6
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai07",
+    "lid": "Toan3_Bai07",
+    "t": "Ôn tập hình học và đo lường",
+    "so": 7
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai08",
+    "lid": "Toan3_Bai08",
+    "t": "Luyện tập chung",
+    "so": 8
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai09",
+    "lid": "Toan3_Bai09",
+    "t": "Bảng nhân 6, bảng chia 6",
+    "so": 9
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai10",
+    "lid": "Toan3_Bai10",
+    "t": "Bảng nhân 7, bảng chia 7",
+    "so": 10
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai11",
+    "lid": "Toan3_Bai11",
+    "t": "Bảng nhân 8, bảng chia 8",
+    "so": 11
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai12",
+    "lid": "Toan3_Bai12",
+    "t": "Bảng nhân 9, bảng chia 9",
+    "so": 12
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai13",
+    "lid": "Toan3_Bai13",
+    "t": "Tìm thành phần trong phép nhân, phép chia",
+    "so": 13
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai14",
+    "lid": "Toan3_Bai14",
+    "t": "Một phần mấy",
+    "so": 14
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai15",
+    "lid": "Toan3_Bai15",
+    "t": "Luyện tập chung",
+    "so": 15
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai16",
+    "lid": "Toan3_Bai16",
+    "t": "Điểm ở giữa, trung điểm của đoạn thẳng",
+    "so": 16
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai17",
+    "lid": "Toan3_Bai17",
+    "t": "Hình tròn. Tâm, bán kính, đường kính của hình tròn",
+    "so": 17
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai18",
+    "lid": "Toan3_Bai18",
+    "t": "Góc, góc vuông, góc không vuông",
+    "so": 18
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai19",
+    "lid": "Toan3_Bai19",
+    "t": "Hình tam giác, hình tứ giác. Hình chữ nhật, hình vuông",
+    "so": 19
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai20",
+    "lid": "Toan3_Bai20",
+    "t": "Thực hành vẽ góc vuông, vẽ đường tròn, hình vuông, hình chữ nhật và vẽ trang trí",
+    "so": 20
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai21",
+    "lid": "Toan3_Bai21",
+    "t": "Khối lập phương, khối hộp chữ nhật",
+    "so": 21
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai22",
+    "lid": "Toan3_Bai22",
+    "t": "Luyện tập chung",
+    "so": 22
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập giữa học kì 1"
+   },
+   {
+    "k": "de",
+    "s": "toan3-gk1de1",
+    "lid": "Toan3_GK1De1",
+    "t": "Giữa học kì 1 – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "toan3-gk1de2",
+    "lid": "Toan3_GK1De2",
+    "t": "Giữa học kì 1 – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "toan3-gk1de3",
+    "lid": "Toan3_GK1De3",
+    "t": "Giữa học kì 1 – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "toan3-gk1de4",
+    "lid": "Toan3_GK1De4",
+    "t": "Giữa học kì 1 – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "toan3-gk1de5",
+    "lid": "Toan3_GK1De5",
+    "t": "Giữa học kì 1 – Đề 5",
+    "so": "5"
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai23",
+    "lid": "Toan3_Bai23",
+    "t": "Nhân số có hai chữ số với số có một chữ số",
+    "so": 23
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai24",
+    "lid": "Toan3_Bai24",
+    "t": "Gấp một số lên một số lần",
+    "so": 24
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai25",
+    "lid": "Toan3_Bai25",
+    "t": "Phép chia hết, phép chia có dư",
+    "so": 25
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai26",
+    "lid": "Toan3_Bai26",
+    "t": "Chia số có hai chữ số cho số có một chữ số",
+    "so": 26
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai27",
+    "lid": "Toan3_Bai27",
+    "t": "Giảm một số đi một số lần",
+    "so": 27
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai28",
+    "lid": "Toan3_Bai28",
+    "t": "Bài toán giải bằng hai bước tính",
+    "so": 28
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai29",
+    "lid": "Toan3_Bai29",
+    "t": "Luyện tập chung",
+    "so": 29
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai30",
+    "lid": "Toan3_Bai30",
+    "t": "Mi-li-mét",
+    "so": 30
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai31",
+    "lid": "Toan3_Bai31",
+    "t": "Gam",
+    "so": 31
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai32",
+    "lid": "Toan3_Bai32",
+    "t": "Mi-li-lít",
+    "so": 32
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai33",
+    "lid": "Toan3_Bai33",
+    "t": "Nhiệt độ. Đơn vị đo nhiệt độ",
+    "so": 33
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai34",
+    "lid": "Toan3_Bai34",
+    "t": "Thực hành và trải nghiệm với các đơn vị mi-li-mét, gam, mi-li-lít, độ C",
+    "so": 34
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai35",
+    "lid": "Toan3_Bai35",
+    "t": "Luyện tập chung",
+    "so": 35
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai36",
+    "lid": "Toan3_Bai36",
+    "t": "Nhân số có ba chữ số với số có một chữ số",
+    "so": 36
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai37",
+    "lid": "Toan3_Bai37",
+    "t": "Chia số có ba chữ số cho số có một chữ số",
+    "so": 37
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai38",
+    "lid": "Toan3_Bai38",
+    "t": "Biểu thức số. Tính giá trị của biểu thức số",
+    "so": 38
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai39",
+    "lid": "Toan3_Bai39",
+    "t": "So sánh số lớn gấp mấy lần số bé",
+    "so": 39
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai40",
+    "lid": "Toan3_Bai40",
+    "t": "Luyện tập chung",
+    "so": 40
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai41",
+    "lid": "Toan3_Bai41",
+    "t": "Ôn tập phép nhân, phép chia trong phạm vi 100, 1 000",
+    "so": 41
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai42",
+    "lid": "Toan3_Bai42",
+    "t": "Ôn tập biểu thức số",
+    "so": 42
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai43",
+    "lid": "Toan3_Bai43",
+    "t": "Ôn tập hình học và đo lường",
+    "so": 43
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai44",
+    "lid": "Toan3_Bai44",
+    "t": "Ôn tập chung",
+    "so": 44
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập cuối học kì 1"
+   },
+   {
+    "k": "de",
+    "s": "toan3-ck1de1",
+    "lid": "Toan3_CK1De1",
+    "t": "Cuối học kì 1 – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "toan3-ck1de2",
+    "lid": "Toan3_CK1De2",
+    "t": "Cuối học kì 1 – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "toan3-ck1de3",
+    "lid": "Toan3_CK1De3",
+    "t": "Cuối học kì 1 – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "toan3-ck1de4",
+    "lid": "Toan3_CK1De4",
+    "t": "Cuối học kì 1 – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "toan3-ck1de5",
+    "lid": "Toan3_CK1De5",
+    "t": "Cuối học kì 1 – Đề 5",
+    "so": "5"
+   },
+   {
+    "k": "khoi",
+    "t": "Học kì 2"
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai45",
+    "lid": "Toan3_Bai45",
+    "t": "Các số có bốn chữ số. Số 10 000",
+    "so": 45
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai46",
+    "lid": "Toan3_Bai46",
+    "t": "So sánh các số trong phạm vi 10 000",
+    "so": 46
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai47",
+    "lid": "Toan3_Bai47",
+    "t": "Làm quen với chữ số La Mã",
+    "so": 47
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai48",
+    "lid": "Toan3_Bai48",
+    "t": "Làm tròn số đến hàng chục, hàng trăm",
+    "so": 48
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai49",
+    "lid": "Toan3_Bai49",
+    "t": "Luyện tập chung",
+    "so": 49
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai50",
+    "lid": "Toan3_Bai50",
+    "t": "Chu vi hình tam giác, hình tứ giác, hình chữ nhật, hình vuông",
+    "so": 50
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai51",
+    "lid": "Toan3_Bai51",
+    "t": "Diện tích của một hình. Xăng-ti-mét vuông",
+    "so": 51
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai52",
+    "lid": "Toan3_Bai52",
+    "t": "Diện tích hình chữ nhật, diện tích hình vuông",
+    "so": 52
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai53",
+    "lid": "Toan3_Bai53",
+    "t": "Luyện tập chung",
+    "so": 53
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai54",
+    "lid": "Toan3_Bai54",
+    "t": "Phép cộng trong phạm vi 10 000",
+    "so": 54
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai55",
+    "lid": "Toan3_Bai55",
+    "t": "Phép trừ trong phạm vi 10 000",
+    "so": 55
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai56",
+    "lid": "Toan3_Bai56",
+    "t": "Nhân số có bốn chữ số với số có một chữ số",
+    "so": 56
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai57",
+    "lid": "Toan3_Bai57",
+    "t": "Chia số có bốn chữ số cho số có một chữ số",
+    "so": 57
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai58",
+    "lid": "Toan3_Bai58",
+    "t": "Luyện tập chung",
+    "so": 58
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai59",
+    "lid": "Toan3_Bai59",
+    "t": "Các số có năm chữ số. Số 100 000",
+    "so": 59
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai60",
+    "lid": "Toan3_Bai60",
+    "t": "So sánh các số trong phạm vi 100 000",
+    "so": 60
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai61",
+    "lid": "Toan3_Bai61",
+    "t": "Làm tròn số đến hàng nghìn, hàng chục nghìn",
+    "so": 61
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai62",
+    "lid": "Toan3_Bai62",
+    "t": "Luyện tập chung",
+    "so": 62
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập giữa học kì 2"
+   },
+   {
+    "k": "de",
+    "s": "toan3-gk2de1",
+    "lid": "Toan3_GK2De1",
+    "t": "Giữa học kì 2 – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "toan3-gk2de2",
+    "lid": "Toan3_GK2De2",
+    "t": "Giữa học kì 2 – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "toan3-gk2de3",
+    "lid": "Toan3_GK2De3",
+    "t": "Giữa học kì 2 – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "toan3-gk2de4",
+    "lid": "Toan3_GK2De4",
+    "t": "Giữa học kì 2 – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "toan3-gk2de5",
+    "lid": "Toan3_GK2De5",
+    "t": "Giữa học kì 2 – Đề 5",
+    "so": "5"
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai63",
+    "lid": "Toan3_Bai63",
+    "t": "Phép cộng trong phạm vi 100 000",
+    "so": 63
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai64",
+    "lid": "Toan3_Bai64",
+    "t": "Phép trừ trong phạm vi 100 000",
+    "so": 64
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai65",
+    "lid": "Toan3_Bai65",
+    "t": "Luyện tập chung",
+    "so": 65
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai66",
+    "lid": "Toan3_Bai66",
+    "t": "Xem đồng hồ. Tháng – năm",
+    "so": 66
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai67",
+    "lid": "Toan3_Bai67",
+    "t": "Thực hành xem đồng hồ, xem lịch",
+    "so": 67
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai68",
+    "lid": "Toan3_Bai68",
+    "t": "Tiền Việt Nam",
+    "so": 68
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai69",
+    "lid": "Toan3_Bai69",
+    "t": "Luyện tập chung",
+    "so": 69
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai70",
+    "lid": "Toan3_Bai70",
+    "t": "Nhân số có năm chữ số với số có một chữ số",
+    "so": 70
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai71",
+    "lid": "Toan3_Bai71",
+    "t": "Chia số có năm chữ số cho số có một chữ số",
+    "so": 71
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai72",
+    "lid": "Toan3_Bai72",
+    "t": "Luyện tập chung",
+    "so": 72
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai73",
+    "lid": "Toan3_Bai73",
+    "t": "Thu thập, phân loại, ghi chép số liệu. Bảng số liệu",
+    "so": 73
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai74",
+    "lid": "Toan3_Bai74",
+    "t": "Khả năng xảy ra của một sự kiện",
+    "so": 74
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai75",
+    "lid": "Toan3_Bai75",
+    "t": "Thực hành và trải nghiệm thu thập, phân loại, ghi chép số liệu, đọc bảng số liệu",
+    "so": 75
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai76",
+    "lid": "Toan3_Bai76",
+    "t": "Ôn tập các số trong phạm vi 10 000, 100 000",
+    "so": 76
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai77",
+    "lid": "Toan3_Bai77",
+    "t": "Ôn tập phép cộng, phép trừ trong phạm vi 100 000",
+    "so": 77
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai78",
+    "lid": "Toan3_Bai78",
+    "t": "Ôn tập phép nhân, phép chia trong phạm vi 100 000",
+    "so": 78
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai79",
+    "lid": "Toan3_Bai79",
+    "t": "Ôn tập hình học và đo lường",
+    "so": 79
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai80",
+    "lid": "Toan3_Bai80",
+    "t": "Ôn tập bảng số liệu, khả năng xảy ra của một sự kiện",
+    "so": 80
+   },
+   {
+    "k": "bai",
+    "s": "toan3-bai81",
+    "lid": "Toan3_Bai81",
+    "t": "Ôn tập chung",
+    "so": 81
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập cuối năm"
+   },
+   {
+    "k": "de",
+    "s": "toan3-cnde1",
+    "lid": "Toan3_CNDe1",
+    "t": "Cuối năm – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "toan3-cnde2",
+    "lid": "Toan3_CNDe2",
+    "t": "Cuối năm – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "toan3-cnde3",
+    "lid": "Toan3_CNDe3",
+    "t": "Cuối năm – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "toan3-cnde4",
+    "lid": "Toan3_CNDe4",
+    "t": "Cuối năm – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "toan3-cnde5",
+    "lid": "Toan3_CNDe5",
+    "t": "Cuối năm – Đề 5",
+    "so": "5"
+   }
+  ]
+ },
+ {
+  "ma": "tiengviet3",
+  "ten": "Tiếng Việt 3",
+  "hinh": "tv3",
+  "lop": 3,
+  "goc": "",
+  "ds": [
+   {
+    "k": "khoi",
+    "t": "Học kì 1"
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai01",
+    "lid": "TiengViet3_Bai01",
+    "t": "Ngày gặp lại",
+    "so": 1
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai02",
+    "lid": "TiengViet3_Bai02",
+    "t": "Về thăm quê",
+    "so": 2
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai03",
+    "lid": "TiengViet3_Bai03",
+    "t": "Cánh rừng trong nắng",
+    "so": 3
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai04",
+    "lid": "TiengViet3_Bai04",
+    "t": "Lần đầu ra biển",
+    "so": 4
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai05",
+    "lid": "TiengViet3_Bai05",
+    "t": "Nhật kí tập bơi",
+    "so": 5
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai06",
+    "lid": "TiengViet3_Bai06",
+    "t": "Tập nấu ăn",
+    "so": 6
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai07",
+    "lid": "TiengViet3_Bai07",
+    "t": "Mùa hè lấp lánh",
+    "so": 7
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai08",
+    "lid": "TiengViet3_Bai08",
+    "t": "Tạm biệt mùa hè",
+    "so": 8
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai09",
+    "lid": "TiengViet3_Bai09",
+    "t": "Đi học vui sao",
+    "so": 9
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai10",
+    "lid": "TiengViet3_Bai10",
+    "t": "Con đường đến trường",
+    "so": 10
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai11",
+    "lid": "TiengViet3_Bai11",
+    "t": "Lời giải toán đặc biệt",
+    "so": 11
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai12",
+    "lid": "TiengViet3_Bai12",
+    "t": "Bài tập làm văn",
+    "so": 12
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai13",
+    "lid": "TiengViet3_Bai13",
+    "t": "Bàn tay cô giáo",
+    "so": 13
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai14",
+    "lid": "TiengViet3_Bai14",
+    "t": "Cuộc họp của chữ viết",
+    "so": 14
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai15",
+    "lid": "TiengViet3_Bai15",
+    "t": "Thư viện",
+    "so": 15
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai16",
+    "lid": "TiengViet3_Bai16",
+    "t": "Ngày em vào Đội",
+    "so": 16
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập giữa học kì 1"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet3-gk1de1",
+    "lid": "TiengViet3_GK1De1",
+    "t": "Giữa học kì 1 – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet3-gk1de2",
+    "lid": "TiengViet3_GK1De2",
+    "t": "Giữa học kì 1 – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet3-gk1de3",
+    "lid": "TiengViet3_GK1De3",
+    "t": "Giữa học kì 1 – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet3-gk1de4",
+    "lid": "TiengViet3_GK1De4",
+    "t": "Giữa học kì 1 – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet3-gk1de5",
+    "lid": "TiengViet3_GK1De5",
+    "t": "Giữa học kì 1 – Đề 5",
+    "so": "5"
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai17",
+    "lid": "TiengViet3_Bai17",
+    "t": "Ngưỡng cửa",
+    "so": 17
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai18",
+    "lid": "TiengViet3_Bai18",
+    "t": "Món quà đặc biệt",
+    "so": 18
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai19",
+    "lid": "TiengViet3_Bai19",
+    "t": "Khi cả nhà bé tí",
+    "so": 19
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai20",
+    "lid": "TiengViet3_Bai20",
+    "t": "Trò chuyện cùng mẹ",
+    "so": 20
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai21",
+    "lid": "TiengViet3_Bai21",
+    "t": "Tia nắng bé nhỏ",
+    "so": 21
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai22",
+    "lid": "TiengViet3_Bai22",
+    "t": "Để cháu nắm tay ông",
+    "so": 22
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai23",
+    "lid": "TiengViet3_Bai23",
+    "t": "Tôi yêu em tôi",
+    "so": 23
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai24",
+    "lid": "TiengViet3_Bai24",
+    "t": "Bạn nhỏ trong nhà",
+    "so": 24
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai25",
+    "lid": "TiengViet3_Bai25",
+    "t": "Những bậc đá chạm mây",
+    "so": 25
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai26",
+    "lid": "TiengViet3_Bai26",
+    "t": "Đi tìm mặt trời",
+    "so": 26
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai27",
+    "lid": "TiengViet3_Bai27",
+    "t": "Những chiếc áo ấm",
+    "so": 27
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai28",
+    "lid": "TiengViet3_Bai28",
+    "t": "Con đường của bé",
+    "so": 28
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai29",
+    "lid": "TiengViet3_Bai29",
+    "t": "Ngôi nhà trong cỏ",
+    "so": 29
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai30",
+    "lid": "TiengViet3_Bai30",
+    "t": "Những ngọn hải đăng",
+    "so": 30
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai31",
+    "lid": "TiengViet3_Bai31",
+    "t": "Người làm đồ chơi",
+    "so": 31
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai32",
+    "lid": "TiengViet3_Bai32",
+    "t": "Cây bút thần",
+    "so": 32
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập cuối học kì 1"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet3-ck1de1",
+    "lid": "TiengViet3_CK1De1",
+    "t": "Cuối học kì 1 – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet3-ck1de2",
+    "lid": "TiengViet3_CK1De2",
+    "t": "Cuối học kì 1 – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet3-ck1de3",
+    "lid": "TiengViet3_CK1De3",
+    "t": "Cuối học kì 1 – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet3-ck1de4",
+    "lid": "TiengViet3_CK1De4",
+    "t": "Cuối học kì 1 – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet3-ck1de5",
+    "lid": "TiengViet3_CK1De5",
+    "t": "Cuối học kì 1 – Đề 5",
+    "so": "5"
+   },
+   {
+    "k": "khoi",
+    "t": "Học kì 2"
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai33",
+    "lid": "TiengViet3_Bai33",
+    "t": "Bầu trời",
+    "so": 33
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai34",
+    "lid": "TiengViet3_Bai34",
+    "t": "Mưa",
+    "so": 34
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai35",
+    "lid": "TiengViet3_Bai35",
+    "t": "Cóc kiện Trời",
+    "so": 35
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai36",
+    "lid": "TiengViet3_Bai36",
+    "t": "Những cái tên đáng yêu",
+    "so": 36
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai37",
+    "lid": "TiengViet3_Bai37",
+    "t": "Ngày hội rừng xanh",
+    "so": 37
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai38",
+    "lid": "TiengViet3_Bai38",
+    "t": "Cây gạo",
+    "so": 38
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai39",
+    "lid": "TiengViet3_Bai39",
+    "t": "Mặt trời xanh của tôi",
+    "so": 39
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai40",
+    "lid": "TiengViet3_Bai40",
+    "t": "Bầy voi rừng Trường Sơn",
+    "so": 40
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai41",
+    "lid": "TiengViet3_Bai41",
+    "t": "Lời kêu gọi toàn dân tập thể dục",
+    "so": 41
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai42",
+    "lid": "TiengViet3_Bai42",
+    "t": "Quả hồng của thỏ con",
+    "so": 42
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai43",
+    "lid": "TiengViet3_Bai43",
+    "t": "Chuyện bên cửa sổ",
+    "so": 43
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai44",
+    "lid": "TiengViet3_Bai44",
+    "t": "Tay trái và tay phải",
+    "so": 44
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai45",
+    "lid": "TiengViet3_Bai45",
+    "t": "Mèo đi câu cá",
+    "so": 45
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai46",
+    "lid": "TiengViet3_Bai46",
+    "t": "Học nghề",
+    "so": 46
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai47",
+    "lid": "TiengViet3_Bai47",
+    "t": "Ngày như thế nào là đẹp?",
+    "so": 47
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai48",
+    "lid": "TiengViet3_Bai48",
+    "t": "A lô, tớ đây",
+    "so": 48
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập giữa học kì 2"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet3-gk2de1",
+    "lid": "TiengViet3_GK2De1",
+    "t": "Giữa học kì 2 – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet3-gk2de2",
+    "lid": "TiengViet3_GK2De2",
+    "t": "Giữa học kì 2 – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet3-gk2de3",
+    "lid": "TiengViet3_GK2De3",
+    "t": "Giữa học kì 2 – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet3-gk2de4",
+    "lid": "TiengViet3_GK2De4",
+    "t": "Giữa học kì 2 – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet3-gk2de5",
+    "lid": "TiengViet3_GK2De5",
+    "t": "Giữa học kì 2 – Đề 5",
+    "so": "5"
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai49",
+    "lid": "TiengViet3_Bai49",
+    "t": "Đất nước là gì?",
+    "so": 49
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai50",
+    "lid": "TiengViet3_Bai50",
+    "t": "Núi quê tôi",
+    "so": 50
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai51",
+    "lid": "TiengViet3_Bai51",
+    "t": "Sông Hương",
+    "so": 51
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai52",
+    "lid": "TiengViet3_Bai52",
+    "t": "Tiếng nước mình",
+    "so": 52
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai53",
+    "lid": "TiengViet3_Bai53",
+    "t": "Nhà rông",
+    "so": 53
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai54",
+    "lid": "TiengViet3_Bai54",
+    "t": "Sự tích ông Đùng, bà Đùng",
+    "so": 54
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai55",
+    "lid": "TiengViet3_Bai55",
+    "t": "Hai Bà Trưng",
+    "so": 55
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai56",
+    "lid": "TiengViet3_Bai56",
+    "t": "Cùng Bác qua suối",
+    "so": 56
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai57",
+    "lid": "TiengViet3_Bai57",
+    "t": "Ngọn lửa Ô-lim-pích",
+    "so": 57
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai58",
+    "lid": "TiengViet3_Bai58",
+    "t": "Rô-bốt ở quanh ta",
+    "so": 58
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai59",
+    "lid": "TiengViet3_Bai59",
+    "t": "Thư của ông Trái Đất gửi các bạn nhỏ",
+    "so": 59
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai60",
+    "lid": "TiengViet3_Bai60",
+    "t": "Những điều nhỏ tớ làm cho Trái Đất",
+    "so": 60
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai61",
+    "lid": "TiengViet3_Bai61",
+    "t": "Bác sĩ Y-éc-xanh",
+    "so": 61
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet3-bai62",
+    "lid": "TiengViet3_Bai62",
+    "t": "Một mái nhà chung",
+    "so": 62
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập cuối năm"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet3-cnde1",
+    "lid": "TiengViet3_CNDe1",
+    "t": "Cuối năm – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet3-cnde2",
+    "lid": "TiengViet3_CNDe2",
+    "t": "Cuối năm – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet3-cnde3",
+    "lid": "TiengViet3_CNDe3",
+    "t": "Cuối năm – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet3-cnde4",
+    "lid": "TiengViet3_CNDe4",
+    "t": "Cuối năm – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet3-cnde5",
+    "lid": "TiengViet3_CNDe5",
+    "t": "Cuối năm – Đề 5",
+    "so": "5"
+   }
+  ]
+ },
+ {
+  "ma": "toan4",
+  "ten": "Toán 4",
+  "hinh": "toan4",
+  "lop": 4,
+  "goc": "",
+  "ds": [
+   {
+    "k": "khoi",
+    "t": "Học kì 1"
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai01",
+    "lid": "Toan4_Bai01",
+    "t": "Ôn tập các số đến 100 000",
+    "so": 1
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai02",
+    "lid": "Toan4_Bai02",
+    "t": "Ôn tập các phép tính trong phạm vi 100 000",
+    "so": 2
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai03",
+    "lid": "Toan4_Bai03",
+    "t": "Số chẵn, số lẻ",
+    "so": 3
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai04",
+    "lid": "Toan4_Bai04",
+    "t": "Biểu thức chứa chữ",
+    "so": 4
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai05",
+    "lid": "Toan4_Bai05",
+    "t": "Giải bài toán có ba bước tính",
+    "so": 5
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai06",
+    "lid": "Toan4_Bai06",
+    "t": "Luyện tập chung",
+    "so": 6
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai07",
+    "lid": "Toan4_Bai07",
+    "t": "Đo góc, đơn vị đo góc",
+    "so": 7
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai08",
+    "lid": "Toan4_Bai08",
+    "t": "Góc nhọn, góc tù, góc bẹt",
+    "so": 8
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai09",
+    "lid": "Toan4_Bai09",
+    "t": "Luyện tập chung",
+    "so": 9
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai10",
+    "lid": "Toan4_Bai10",
+    "t": "Số có sáu chữ số. Số 1 000 000",
+    "so": 10
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai11",
+    "lid": "Toan4_Bai11",
+    "t": "Hàng và lớp",
+    "so": 11
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai12",
+    "lid": "Toan4_Bai12",
+    "t": "Các số trong phạm vi lớp triệu",
+    "so": 12
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai13",
+    "lid": "Toan4_Bai13",
+    "t": "Làm tròn số đến hàng trăm nghìn",
+    "so": 13
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai14",
+    "lid": "Toan4_Bai14",
+    "t": "So sánh các số có nhiều chữ số",
+    "so": 14
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai15",
+    "lid": "Toan4_Bai15",
+    "t": "Làm quen với dãy số tự nhiên",
+    "so": 15
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai16",
+    "lid": "Toan4_Bai16",
+    "t": "Luyện tập chung",
+    "so": 16
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai17",
+    "lid": "Toan4_Bai17",
+    "t": "Yến, tạ, tấn",
+    "so": 17
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai18",
+    "lid": "Toan4_Bai18",
+    "t": "Đề-xi-mét vuông, mét vuông, mi-li-mét vuông",
+    "so": 18
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai19",
+    "lid": "Toan4_Bai19",
+    "t": "Giây, thế kỉ",
+    "so": 19
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập giữa học kì 1"
+   },
+   {
+    "k": "de",
+    "s": "toan4-gk1de1",
+    "lid": "Toan4_GK1De1",
+    "t": "Giữa học kì 1 – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "toan4-gk1de2",
+    "lid": "Toan4_GK1De2",
+    "t": "Giữa học kì 1 – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "toan4-gk1de3",
+    "lid": "Toan4_GK1De3",
+    "t": "Giữa học kì 1 – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "toan4-gk1de4",
+    "lid": "Toan4_GK1De4",
+    "t": "Giữa học kì 1 – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "toan4-gk1de5",
+    "lid": "Toan4_GK1De5",
+    "t": "Giữa học kì 1 – Đề 5",
+    "so": "5"
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai20",
+    "lid": "Toan4_Bai20",
+    "t": "Thực hành và trải nghiệm sử dụng một số đơn vị đo đại lượng",
+    "so": 20
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai21",
+    "lid": "Toan4_Bai21",
+    "t": "Luyện tập chung",
+    "so": 21
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai22",
+    "lid": "Toan4_Bai22",
+    "t": "Phép cộng các số có nhiều chữ số",
+    "so": 22
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai23",
+    "lid": "Toan4_Bai23",
+    "t": "Phép trừ các số có nhiều chữ số",
+    "so": 23
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai24",
+    "lid": "Toan4_Bai24",
+    "t": "Tính chất giao hoán và kết hợp của phép cộng",
+    "so": 24
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai25",
+    "lid": "Toan4_Bai25",
+    "t": "Tìm hai số biết tổng và hiệu của hai số đó",
+    "so": 25
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai26",
+    "lid": "Toan4_Bai26",
+    "t": "Luyện tập chung",
+    "so": 26
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai27",
+    "lid": "Toan4_Bai27",
+    "t": "Hai đường thẳng vuông góc",
+    "so": 27
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai28",
+    "lid": "Toan4_Bai28",
+    "t": "Thực hành và trải nghiệm vẽ hai đường thẳng vuông góc",
+    "so": 28
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai29",
+    "lid": "Toan4_Bai29",
+    "t": "Hai đường thẳng song song",
+    "so": 29
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai30",
+    "lid": "Toan4_Bai30",
+    "t": "Thực hành và trải nghiệm vẽ hai đường thẳng song song",
+    "so": 30
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai31",
+    "lid": "Toan4_Bai31",
+    "t": "Hình bình hành, hình thoi",
+    "so": 31
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai32",
+    "lid": "Toan4_Bai32",
+    "t": "Luyện tập chung",
+    "so": 32
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai33",
+    "lid": "Toan4_Bai33",
+    "t": "Ôn tập các số đến lớp triệu",
+    "so": 33
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai34",
+    "lid": "Toan4_Bai34",
+    "t": "Ôn tập phép cộng, phép trừ",
+    "so": 34
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai35",
+    "lid": "Toan4_Bai35",
+    "t": "Ôn tập hình học",
+    "so": 35
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai36",
+    "lid": "Toan4_Bai36",
+    "t": "Ôn tập đo lường",
+    "so": 36
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai37",
+    "lid": "Toan4_Bai37",
+    "t": "Ôn tập chung",
+    "so": 37
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập cuối học kì 1"
+   },
+   {
+    "k": "de",
+    "s": "toan4-ck1de1",
+    "lid": "Toan4_CK1De1",
+    "t": "Cuối học kì 1 – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "toan4-ck1de2",
+    "lid": "Toan4_CK1De2",
+    "t": "Cuối học kì 1 – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "toan4-ck1de3",
+    "lid": "Toan4_CK1De3",
+    "t": "Cuối học kì 1 – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "toan4-ck1de4",
+    "lid": "Toan4_CK1De4",
+    "t": "Cuối học kì 1 – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "toan4-ck1de5",
+    "lid": "Toan4_CK1De5",
+    "t": "Cuối học kì 1 – Đề 5",
+    "so": "5"
+   },
+   {
+    "k": "khoi",
+    "t": "Học kì 2"
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai38",
+    "lid": "Toan4_Bai38",
+    "t": "Nhân với số có một chữ số",
+    "so": 38
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai39",
+    "lid": "Toan4_Bai39",
+    "t": "Chia cho số có một chữ số",
+    "so": 39
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai40",
+    "lid": "Toan4_Bai40",
+    "t": "Tính chất giao hoán và kết hợp của phép nhân",
+    "so": 40
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai41",
+    "lid": "Toan4_Bai41",
+    "t": "Nhân, chia với 10, 100, 1 000,...",
+    "so": 41
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai42",
+    "lid": "Toan4_Bai42",
+    "t": "Tính chất phân phối của phép nhân đối với phép cộng",
+    "so": 42
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai43",
+    "lid": "Toan4_Bai43",
+    "t": "Nhân với số có hai chữ số",
+    "so": 43
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai44",
+    "lid": "Toan4_Bai44",
+    "t": "Chia cho số có hai chữ số",
+    "so": 44
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai45",
+    "lid": "Toan4_Bai45",
+    "t": "Thực hành và trải nghiệm ước lượng trong tính toán",
+    "so": 45
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai46",
+    "lid": "Toan4_Bai46",
+    "t": "Tìm số trung bình cộng",
+    "so": 46
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai47",
+    "lid": "Toan4_Bai47",
+    "t": "Bài toán liên quan đến rút về đơn vị",
+    "so": 47
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai48",
+    "lid": "Toan4_Bai48",
+    "t": "Luyện tập chung",
+    "so": 48
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai49",
+    "lid": "Toan4_Bai49",
+    "t": "Dãy số liệu thống kê",
+    "so": 49
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai50",
+    "lid": "Toan4_Bai50",
+    "t": "Biểu đồ cột",
+    "so": 50
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai51",
+    "lid": "Toan4_Bai51",
+    "t": "Số lần xuất hiện của một sự kiện",
+    "so": 51
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai52",
+    "lid": "Toan4_Bai52",
+    "t": "Luyện tập chung",
+    "so": 52
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai53",
+    "lid": "Toan4_Bai53",
+    "t": "Khái niệm phân số",
+    "so": 53
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai54",
+    "lid": "Toan4_Bai54",
+    "t": "Phân số và phép chia số tự nhiên",
+    "so": 54
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai55",
+    "lid": "Toan4_Bai55",
+    "t": "Tính chất cơ bản của phân số",
+    "so": 55
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai56",
+    "lid": "Toan4_Bai56",
+    "t": "Rút gọn phân số",
+    "so": 56
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai57",
+    "lid": "Toan4_Bai57",
+    "t": "Quy đồng mẫu số các phân số",
+    "so": 57
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai58",
+    "lid": "Toan4_Bai58",
+    "t": "So sánh phân số",
+    "so": 58
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai59",
+    "lid": "Toan4_Bai59",
+    "t": "Luyện tập chung",
+    "so": 59
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập giữa học kì 2"
+   },
+   {
+    "k": "de",
+    "s": "toan4-gk2de1",
+    "lid": "Toan4_GK2De1",
+    "t": "Giữa học kì 2 – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "toan4-gk2de2",
+    "lid": "Toan4_GK2De2",
+    "t": "Giữa học kì 2 – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "toan4-gk2de3",
+    "lid": "Toan4_GK2De3",
+    "t": "Giữa học kì 2 – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "toan4-gk2de4",
+    "lid": "Toan4_GK2De4",
+    "t": "Giữa học kì 2 – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "toan4-gk2de5",
+    "lid": "Toan4_GK2De5",
+    "t": "Giữa học kì 2 – Đề 5",
+    "so": "5"
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai60",
+    "lid": "Toan4_Bai60",
+    "t": "Phép cộng phân số",
+    "so": 60
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai61",
+    "lid": "Toan4_Bai61",
+    "t": "Phép trừ phân số",
+    "so": 61
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai62",
+    "lid": "Toan4_Bai62",
+    "t": "Luyện tập chung",
+    "so": 62
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai63",
+    "lid": "Toan4_Bai63",
+    "t": "Phép nhân phân số",
+    "so": 63
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai64",
+    "lid": "Toan4_Bai64",
+    "t": "Phép chia phân số",
+    "so": 64
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai65",
+    "lid": "Toan4_Bai65",
+    "t": "Tìm phân số của một số",
+    "so": 65
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai66",
+    "lid": "Toan4_Bai66",
+    "t": "Luyện tập chung",
+    "so": 66
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai67",
+    "lid": "Toan4_Bai67",
+    "t": "Ôn tập số tự nhiên",
+    "so": 67
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai68",
+    "lid": "Toan4_Bai68",
+    "t": "Ôn tập phép tính với số tự nhiên",
+    "so": 68
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai69",
+    "lid": "Toan4_Bai69",
+    "t": "Ôn tập phân số",
+    "so": 69
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai70",
+    "lid": "Toan4_Bai70",
+    "t": "Ôn tập phép tính với phân số",
+    "so": 70
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai71",
+    "lid": "Toan4_Bai71",
+    "t": "Ôn tập hình học và đo lường",
+    "so": 71
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai72",
+    "lid": "Toan4_Bai72",
+    "t": "Ôn tập một số yếu tố thống kê và xác suất",
+    "so": 72
+   },
+   {
+    "k": "bai",
+    "s": "toan4-bai73",
+    "lid": "Toan4_Bai73",
+    "t": "Ôn tập chung",
+    "so": 73
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập cuối năm"
+   },
+   {
+    "k": "de",
+    "s": "toan4-cnde1",
+    "lid": "Toan4_CNDe1",
+    "t": "Cuối năm – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "toan4-cnde2",
+    "lid": "Toan4_CNDe2",
+    "t": "Cuối năm – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "toan4-cnde3",
+    "lid": "Toan4_CNDe3",
+    "t": "Cuối năm – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "toan4-cnde4",
+    "lid": "Toan4_CNDe4",
+    "t": "Cuối năm – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "toan4-cnde5",
+    "lid": "Toan4_CNDe5",
+    "t": "Cuối năm – Đề 5",
+    "so": "5"
+   }
+  ]
+ },
+ {
+  "ma": "tiengviet4",
+  "ten": "Tiếng Việt 4",
+  "hinh": "tv4",
+  "lop": 4,
+  "goc": "",
+  "ds": [
+   {
+    "k": "khoi",
+    "t": "Học kì 1"
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai01",
+    "lid": "TiengViet4_Bai01",
+    "t": "Điều kì diệu",
+    "so": 1
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai02",
+    "lid": "TiengViet4_Bai02",
+    "t": "Thi nhạc",
+    "so": 2
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai03",
+    "lid": "TiengViet4_Bai03",
+    "t": "Anh em sinh đôi",
+    "so": 3
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai04",
+    "lid": "TiengViet4_Bai04",
+    "t": "Công chúa và người dẫn chuyện",
+    "so": 4
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai05",
+    "lid": "TiengViet4_Bai05",
+    "t": "Thằn lằn xanh và tắc kè",
+    "so": 5
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai06",
+    "lid": "TiengViet4_Bai06",
+    "t": "Nghệ sĩ trống",
+    "so": 6
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai07",
+    "lid": "TiengViet4_Bai07",
+    "t": "Những bức chân dung",
+    "so": 7
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai08",
+    "lid": "TiengViet4_Bai08",
+    "t": "Đò ngang",
+    "so": 8
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai09",
+    "lid": "TiengViet4_Bai09",
+    "t": "Bầu trời trong quả trứng",
+    "so": 9
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai10",
+    "lid": "TiengViet4_Bai10",
+    "t": "Tiếng nói của cỏ cây",
+    "so": 10
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai11",
+    "lid": "TiengViet4_Bai11",
+    "t": "Tập làm văn",
+    "so": 11
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai12",
+    "lid": "TiengViet4_Bai12",
+    "t": "Nhà phát minh 6 tuổi",
+    "so": 12
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai13",
+    "lid": "TiengViet4_Bai13",
+    "t": "Con vẹt xanh",
+    "so": 13
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai14",
+    "lid": "TiengViet4_Bai14",
+    "t": "Chân trời cuối phố",
+    "so": 14
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai15",
+    "lid": "TiengViet4_Bai15",
+    "t": "Gặt chữ trên non",
+    "so": 15
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai16",
+    "lid": "TiengViet4_Bai16",
+    "t": "Trước ngày xa quê",
+    "so": 16
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập giữa học kì 1"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet4-gk1de1",
+    "lid": "TiengViet4_GK1De1",
+    "t": "Giữa học kì 1 – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet4-gk1de2",
+    "lid": "TiengViet4_GK1De2",
+    "t": "Giữa học kì 1 – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet4-gk1de3",
+    "lid": "TiengViet4_GK1De3",
+    "t": "Giữa học kì 1 – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet4-gk1de4",
+    "lid": "TiengViet4_GK1De4",
+    "t": "Giữa học kì 1 – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet4-gk1de5",
+    "lid": "TiengViet4_GK1De5",
+    "t": "Giữa học kì 1 – Đề 5",
+    "so": "5"
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai17",
+    "lid": "TiengViet4_Bai17",
+    "t": "Vẽ màu",
+    "so": 17
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai18",
+    "lid": "TiengViet4_Bai18",
+    "t": "Đồng cỏ nở hoa",
+    "so": 18
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai19",
+    "lid": "TiengViet4_Bai19",
+    "t": "Thanh âm của núi",
+    "so": 19
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai20",
+    "lid": "TiengViet4_Bai20",
+    "t": "Bầu trời mùa thu",
+    "so": 20
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai21",
+    "lid": "TiengViet4_Bai21",
+    "t": "Làm thỏ con bằng giấy",
+    "so": 21
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai22",
+    "lid": "TiengViet4_Bai22",
+    "t": "Bức tường có nhiều phép lạ",
+    "so": 22
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai23",
+    "lid": "TiengViet4_Bai23",
+    "t": "Bét-tô-ven và bản xô-nát Ánh trăng",
+    "so": 23
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai24",
+    "lid": "TiengViet4_Bai24",
+    "t": "Người tìm đường lên các vì sao",
+    "so": 24
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai25",
+    "lid": "TiengViet4_Bai25",
+    "t": "Bay cùng ước mơ",
+    "so": 25
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai26",
+    "lid": "TiengViet4_Bai26",
+    "t": "Con trai người làm vườn",
+    "so": 26
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai27",
+    "lid": "TiengViet4_Bai27",
+    "t": "Nếu em có một khu vườn",
+    "so": 27
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai28",
+    "lid": "TiengViet4_Bai28",
+    "t": "Bốn mùa mơ ước",
+    "so": 28
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai29",
+    "lid": "TiengViet4_Bai29",
+    "t": "Ở Vương quốc Tương Lai",
+    "so": 29
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai30",
+    "lid": "TiengViet4_Bai30",
+    "t": "Cánh chim nhỏ",
+    "so": 30
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai31",
+    "lid": "TiengViet4_Bai31",
+    "t": "Nếu chúng mình có phép lạ",
+    "so": 31
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai32",
+    "lid": "TiengViet4_Bai32",
+    "t": "Anh Ba",
+    "so": 32
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập cuối học kì 1"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet4-ck1de1",
+    "lid": "TiengViet4_CK1De1",
+    "t": "Cuối học kì 1 – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet4-ck1de2",
+    "lid": "TiengViet4_CK1De2",
+    "t": "Cuối học kì 1 – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet4-ck1de3",
+    "lid": "TiengViet4_CK1De3",
+    "t": "Cuối học kì 1 – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet4-ck1de4",
+    "lid": "TiengViet4_CK1De4",
+    "t": "Cuối học kì 1 – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet4-ck1de5",
+    "lid": "TiengViet4_CK1De5",
+    "t": "Cuối học kì 1 – Đề 5",
+    "so": "5"
+   },
+   {
+    "k": "khoi",
+    "t": "Học kì 2"
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai33",
+    "lid": "TiengViet4_Bai33",
+    "t": "Hải Thượng Lãn Ông",
+    "so": 33
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai34",
+    "lid": "TiengViet4_Bai34",
+    "t": "Vệt phấn trên mặt bàn",
+    "so": 34
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai35",
+    "lid": "TiengViet4_Bai35",
+    "t": "Ông Bụt đã đến",
+    "so": 35
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai36",
+    "lid": "TiengViet4_Bai36",
+    "t": "Quả ngọt cuối mùa",
+    "so": 36
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai37",
+    "lid": "TiengViet4_Bai37",
+    "t": "Tờ báo tường của tôi",
+    "so": 37
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai38",
+    "lid": "TiengViet4_Bai38",
+    "t": "Tiếng ru",
+    "so": 38
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai39",
+    "lid": "TiengViet4_Bai39",
+    "t": "Con muốn làm một cái cây",
+    "so": 39
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai40",
+    "lid": "TiengViet4_Bai40",
+    "t": "Trên khóm tre đầu ngõ",
+    "so": 40
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai41",
+    "lid": "TiengViet4_Bai41",
+    "t": "Sự tích con Rồng cháu Tiên",
+    "so": 41
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai42",
+    "lid": "TiengViet4_Bai42",
+    "t": "Cảm xúc Trường Sa",
+    "so": 42
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai43",
+    "lid": "TiengViet4_Bai43",
+    "t": "Sáng tháng Năm",
+    "so": 43
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai44",
+    "lid": "TiengViet4_Bai44",
+    "t": "Chàng trai làng Phù Ủng",
+    "so": 44
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai45",
+    "lid": "TiengViet4_Bai45",
+    "t": "Vườn của ông tôi",
+    "so": 45
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai46",
+    "lid": "TiengViet4_Bai46",
+    "t": "Trong lời mẹ hát",
+    "so": 46
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai47",
+    "lid": "TiengViet4_Bai47",
+    "t": "Người thầy đầu tiên của bố tôi",
+    "so": 47
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai48",
+    "lid": "TiengViet4_Bai48",
+    "t": "Ngựa biên phòng",
+    "so": 48
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập giữa học kì 2"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet4-gk2de1",
+    "lid": "TiengViet4_GK2De1",
+    "t": "Giữa học kì 2 – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet4-gk2de2",
+    "lid": "TiengViet4_GK2De2",
+    "t": "Giữa học kì 2 – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet4-gk2de3",
+    "lid": "TiengViet4_GK2De3",
+    "t": "Giữa học kì 2 – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet4-gk2de4",
+    "lid": "TiengViet4_GK2De4",
+    "t": "Giữa học kì 2 – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet4-gk2de5",
+    "lid": "TiengViet4_GK2De5",
+    "t": "Giữa học kì 2 – Đề 5",
+    "so": "5"
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai49",
+    "lid": "TiengViet4_Bai49",
+    "t": "Cây đa quê hương",
+    "so": 49
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai50",
+    "lid": "TiengViet4_Bai50",
+    "t": "Bước mùa xuân",
+    "so": 50
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai51",
+    "lid": "TiengViet4_Bai51",
+    "t": "Đi hội chùa Hương",
+    "so": 51
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai52",
+    "lid": "TiengViet4_Bai52",
+    "t": "Chiều ngoại ô",
+    "so": 52
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai53",
+    "lid": "TiengViet4_Bai53",
+    "t": "Những cánh buồm",
+    "so": 53
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai54",
+    "lid": "TiengViet4_Bai54",
+    "t": "Cái cầu",
+    "so": 54
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai55",
+    "lid": "TiengViet4_Bai55",
+    "t": "Đường đi Sa Pa",
+    "so": 55
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai56",
+    "lid": "TiengViet4_Bai56",
+    "t": "Quê ngoại",
+    "so": 56
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai57",
+    "lid": "TiengViet4_Bai57",
+    "t": "Khu bảo tồn động vật hoang dã Ngô-rông-gô-rô",
+    "so": 57
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai58",
+    "lid": "TiengViet4_Bai58",
+    "t": "Ngôi nhà của yêu thương",
+    "so": 58
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai59",
+    "lid": "TiengViet4_Bai59",
+    "t": "Băng tan",
+    "so": 59
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai60",
+    "lid": "TiengViet4_Bai60",
+    "t": "Chuyến du lịch thú vị",
+    "so": 60
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai61",
+    "lid": "TiengViet4_Bai61",
+    "t": "Lễ hội ở Nhật Bản",
+    "so": 61
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet4-bai62",
+    "lid": "TiengViet4_Bai62",
+    "t": "Ngày hội",
+    "so": 62
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập cuối năm"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet4-cnde1",
+    "lid": "TiengViet4_CNDe1",
+    "t": "Cuối năm – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet4-cnde2",
+    "lid": "TiengViet4_CNDe2",
+    "t": "Cuối năm – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet4-cnde3",
+    "lid": "TiengViet4_CNDe3",
+    "t": "Cuối năm – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet4-cnde4",
+    "lid": "TiengViet4_CNDe4",
+    "t": "Cuối năm – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet4-cnde5",
+    "lid": "TiengViet4_CNDe5",
+    "t": "Cuối năm – Đề 5",
+    "so": "5"
+   }
+  ]
+ },
+ {
+  "ma": "toan5",
+  "ten": "Toán 5",
+  "hinh": "toan5",
+  "lop": 5,
+  "goc": "",
+  "ds": [
+   {
+    "k": "khoi",
+    "t": "Học kì 1"
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai01",
+    "lid": "Toan5_Bai01",
+    "t": "Ôn tập số tự nhiên",
+    "so": 1
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai02",
+    "lid": "Toan5_Bai02",
+    "t": "Ôn tập các phép tính với số tự nhiên",
+    "so": 2
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai03",
+    "lid": "Toan5_Bai03",
+    "t": "Ôn tập phân số",
+    "so": 3
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai04",
+    "lid": "Toan5_Bai04",
+    "t": "Phân số thập phân",
+    "so": 4
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai05",
+    "lid": "Toan5_Bai05",
+    "t": "Ôn tập các phép tính với phân số",
+    "so": 5
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai06",
+    "lid": "Toan5_Bai06",
+    "t": "Cộng, trừ hai phân số",
+    "so": 6
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai07",
+    "lid": "Toan5_Bai07",
+    "t": "Hỗn số",
+    "so": 7
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai08",
+    "lid": "Toan5_Bai08",
+    "t": "Ôn tập hình học và đo lường",
+    "so": 8
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai09",
+    "lid": "Toan5_Bai09",
+    "t": "Luyện tập chung",
+    "so": 9
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai10",
+    "lid": "Toan5_Bai10",
+    "t": "Khái niệm số thập phân",
+    "so": 10
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai11",
+    "lid": "Toan5_Bai11",
+    "t": "So sánh các số thập phân",
+    "so": 11
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai12",
+    "lid": "Toan5_Bai12",
+    "t": "Viết số đo đại lượng dưới dạng số thập phân",
+    "so": 12
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai13",
+    "lid": "Toan5_Bai13",
+    "t": "Làm tròn số thập phân",
+    "so": 13
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai14",
+    "lid": "Toan5_Bai14",
+    "t": "Luyện tập chung",
+    "so": 14
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai15",
+    "lid": "Toan5_Bai15",
+    "t": "Ki-lô-mét vuông. Héc-ta",
+    "so": 15
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai16",
+    "lid": "Toan5_Bai16",
+    "t": "Các đơn vị đo diện tích",
+    "so": 16
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai17",
+    "lid": "Toan5_Bai17",
+    "t": "Thực hành và trải nghiệm với một số đơn vị đo đại lượng",
+    "so": 17
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai18",
+    "lid": "Toan5_Bai18",
+    "t": "Luyện tập chung",
+    "so": 18
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập giữa học kì 1"
+   },
+   {
+    "k": "de",
+    "s": "toan5-gk1de1",
+    "lid": "Toan5_GK1De1",
+    "t": "Giữa học kì 1 – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "toan5-gk1de2",
+    "lid": "Toan5_GK1De2",
+    "t": "Giữa học kì 1 – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "toan5-gk1de3",
+    "lid": "Toan5_GK1De3",
+    "t": "Giữa học kì 1 – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "toan5-gk1de4",
+    "lid": "Toan5_GK1De4",
+    "t": "Giữa học kì 1 – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "toan5-gk1de5",
+    "lid": "Toan5_GK1De5",
+    "t": "Giữa học kì 1 – Đề 5",
+    "so": "5"
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai19",
+    "lid": "Toan5_Bai19",
+    "t": "Phép cộng số thập phân",
+    "so": 19
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai20",
+    "lid": "Toan5_Bai20",
+    "t": "Phép trừ số thập phân",
+    "so": 20
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai21",
+    "lid": "Toan5_Bai21",
+    "t": "Phép nhân số thập phân",
+    "so": 21
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai22",
+    "lid": "Toan5_Bai22",
+    "t": "Phép chia số thập phân",
+    "so": 22
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai23",
+    "lid": "Toan5_Bai23",
+    "t": "Nhân, chia số thập phân với 10, 100, 1 000 hoặc với 0,1; 0,01; 0,001",
+    "so": 23
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai24",
+    "lid": "Toan5_Bai24",
+    "t": "Luyện tập chung",
+    "so": 24
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai25",
+    "lid": "Toan5_Bai25",
+    "t": "Hình tam giác. Diện tích hình tam giác",
+    "so": 25
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai26",
+    "lid": "Toan5_Bai26",
+    "t": "Hình thang. Diện tích hình thang",
+    "so": 26
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai27",
+    "lid": "Toan5_Bai27",
+    "t": "Đường tròn. Chu vi và diện tích hình tròn",
+    "so": 27
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai28",
+    "lid": "Toan5_Bai28",
+    "t": "Thực hành và trải nghiệm đo, vẽ, lắp ghép, tạo hình",
+    "so": 28
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai29",
+    "lid": "Toan5_Bai29",
+    "t": "Luyện tập chung",
+    "so": 29
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai30",
+    "lid": "Toan5_Bai30",
+    "t": "Ôn tập số thập phân",
+    "so": 30
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai31",
+    "lid": "Toan5_Bai31",
+    "t": "Ôn tập các phép tính với số thập phân",
+    "so": 31
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai32",
+    "lid": "Toan5_Bai32",
+    "t": "Ôn tập một số hình phẳng",
+    "so": 32
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai33",
+    "lid": "Toan5_Bai33",
+    "t": "Ôn tập diện tích, chu vi một số hình phẳng",
+    "so": 33
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai34",
+    "lid": "Toan5_Bai34",
+    "t": "Ôn tập đo lường",
+    "so": 34
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai35",
+    "lid": "Toan5_Bai35",
+    "t": "Ôn tập chung",
+    "so": 35
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập cuối học kì 1"
+   },
+   {
+    "k": "de",
+    "s": "toan5-ck1de1",
+    "lid": "Toan5_CK1De1",
+    "t": "Cuối học kì 1 – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "toan5-ck1de2",
+    "lid": "Toan5_CK1De2",
+    "t": "Cuối học kì 1 – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "toan5-ck1de3",
+    "lid": "Toan5_CK1De3",
+    "t": "Cuối học kì 1 – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "toan5-ck1de4",
+    "lid": "Toan5_CK1De4",
+    "t": "Cuối học kì 1 – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "toan5-ck1de5",
+    "lid": "Toan5_CK1De5",
+    "t": "Cuối học kì 1 – Đề 5",
+    "so": "5"
+   },
+   {
+    "k": "khoi",
+    "t": "Học kì 2"
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai36",
+    "lid": "Toan5_Bai36",
+    "t": "Tỉ số. Tỉ số phần trăm",
+    "so": 36
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai37",
+    "lid": "Toan5_Bai37",
+    "t": "Tỉ lệ bản đồ và ứng dụng",
+    "so": 37
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai38",
+    "lid": "Toan5_Bai38",
+    "t": "Tìm hai số khi biết tổng và tỉ số của hai số đó",
+    "so": 38
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai39",
+    "lid": "Toan5_Bai39",
+    "t": "Tìm hai số khi biết hiệu và tỉ số của hai số đó",
+    "so": 39
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai40",
+    "lid": "Toan5_Bai40",
+    "t": "Tìm tỉ số phần trăm của hai số",
+    "so": 40
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai41",
+    "lid": "Toan5_Bai41",
+    "t": "Tìm giá trị phần trăm của một số",
+    "so": 41
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai42",
+    "lid": "Toan5_Bai42",
+    "t": "Máy tính cầm tay",
+    "so": 42
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai43",
+    "lid": "Toan5_Bai43",
+    "t": "Thực hành và trải nghiệm sử dụng máy tính cầm tay",
+    "so": 43
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai44",
+    "lid": "Toan5_Bai44",
+    "t": "Luyện tập chung",
+    "so": 44
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai45",
+    "lid": "Toan5_Bai45",
+    "t": "Thể tích của một hình",
+    "so": 45
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai46",
+    "lid": "Toan5_Bai46",
+    "t": "Xăng-ti-mét khối. Đề-xi-mét khối",
+    "so": 46
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai47",
+    "lid": "Toan5_Bai47",
+    "t": "Mét khối",
+    "so": 47
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai48",
+    "lid": "Toan5_Bai48",
+    "t": "Luyện tập chung",
+    "so": 48
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai49",
+    "lid": "Toan5_Bai49",
+    "t": "Hình khai triển của hình lập phương, hình hộp chữ nhật và hình trụ",
+    "so": 49
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai50",
+    "lid": "Toan5_Bai50",
+    "t": "Diện tích xung quanh và diện tích toàn phần của hình hộp chữ nhật",
+    "so": 50
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai51",
+    "lid": "Toan5_Bai51",
+    "t": "Diện tích xung quanh và diện tích toàn phần của hình lập phương",
+    "so": 51
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai52",
+    "lid": "Toan5_Bai52",
+    "t": "Thể tích của hình hộp chữ nhật",
+    "so": 52
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai53",
+    "lid": "Toan5_Bai53",
+    "t": "Thể tích của hình lập phương",
+    "so": 53
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai54",
+    "lid": "Toan5_Bai54",
+    "t": "Thực hành tính toán và ước lượng thể tích một số hình khối",
+    "so": 54
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai55",
+    "lid": "Toan5_Bai55",
+    "t": "Luyện tập chung",
+    "so": 55
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập giữa học kì 2"
+   },
+   {
+    "k": "de",
+    "s": "toan5-gk2de1",
+    "lid": "Toan5_GK2De1",
+    "t": "Giữa học kì 2 – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "toan5-gk2de2",
+    "lid": "Toan5_GK2De2",
+    "t": "Giữa học kì 2 – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "toan5-gk2de3",
+    "lid": "Toan5_GK2De3",
+    "t": "Giữa học kì 2 – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "toan5-gk2de4",
+    "lid": "Toan5_GK2De4",
+    "t": "Giữa học kì 2 – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "toan5-gk2de5",
+    "lid": "Toan5_GK2De5",
+    "t": "Giữa học kì 2 – Đề 5",
+    "so": "5"
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai56",
+    "lid": "Toan5_Bai56",
+    "t": "Các đơn vị đo thời gian",
+    "so": 56
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai57",
+    "lid": "Toan5_Bai57",
+    "t": "Cộng, trừ số đo thời gian",
+    "so": 57
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai58",
+    "lid": "Toan5_Bai58",
+    "t": "Nhân, chia số đo thời gian với một số",
+    "so": 58
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai59",
+    "lid": "Toan5_Bai59",
+    "t": "Vận tốc của một chuyển động đều",
+    "so": 59
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai60",
+    "lid": "Toan5_Bai60",
+    "t": "Quãng đường, thời gian của một chuyển động đều",
+    "so": 60
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai61",
+    "lid": "Toan5_Bai61",
+    "t": "Thực hành tính toán và ước lượng về vận tốc, quãng đường, thời gian trong chuyển động đều",
+    "so": 61
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai62",
+    "lid": "Toan5_Bai62",
+    "t": "Luyện tập chung",
+    "so": 62
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai63",
+    "lid": "Toan5_Bai63",
+    "t": "Thu thập, phân loại, sắp xếp các số liệu",
+    "so": 63
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai64",
+    "lid": "Toan5_Bai64",
+    "t": "Biểu đồ hình quạt tròn",
+    "so": 64
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai65",
+    "lid": "Toan5_Bai65",
+    "t": "Tỉ số của số lần lặp lại một sự kiện so với tổng số lần thực hiện",
+    "so": 65
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai66",
+    "lid": "Toan5_Bai66",
+    "t": "Thực hành và trải nghiệm thu thập, phân tích, biểu diễn các số liệu thống kê",
+    "so": 66
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai67",
+    "lid": "Toan5_Bai67",
+    "t": "Luyện tập chung",
+    "so": 67
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai68",
+    "lid": "Toan5_Bai68",
+    "t": "Ôn tập số tự nhiên, phân số, số thập phân",
+    "so": 68
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai69",
+    "lid": "Toan5_Bai69",
+    "t": "Ôn tập các phép tính với số tự nhiên, phân số, số thập phân",
+    "so": 69
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai70",
+    "lid": "Toan5_Bai70",
+    "t": "Ôn tập tỉ số, tỉ số phần trăm",
+    "so": 70
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai71",
+    "lid": "Toan5_Bai71",
+    "t": "Ôn tập hình học",
+    "so": 71
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai72",
+    "lid": "Toan5_Bai72",
+    "t": "Ôn tập đo lường",
+    "so": 72
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai73",
+    "lid": "Toan5_Bai73",
+    "t": "Ôn tập toán chuyển động đều",
+    "so": 73
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai74",
+    "lid": "Toan5_Bai74",
+    "t": "Ôn tập một số yếu tố thống kê và xác suất",
+    "so": 74
+   },
+   {
+    "k": "bai",
+    "s": "toan5-bai75",
+    "lid": "Toan5_Bai75",
+    "t": "Ôn tập chung",
+    "so": 75
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập cuối năm"
+   },
+   {
+    "k": "de",
+    "s": "toan5-cnde1",
+    "lid": "Toan5_CNDe1",
+    "t": "Cuối năm – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "toan5-cnde2",
+    "lid": "Toan5_CNDe2",
+    "t": "Cuối năm – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "toan5-cnde3",
+    "lid": "Toan5_CNDe3",
+    "t": "Cuối năm – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "toan5-cnde4",
+    "lid": "Toan5_CNDe4",
+    "t": "Cuối năm – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "toan5-cnde5",
+    "lid": "Toan5_CNDe5",
+    "t": "Cuối năm – Đề 5",
+    "so": "5"
+   }
+  ]
+ },
+ {
+  "ma": "tiengviet5",
+  "ten": "Tiếng Việt 5",
+  "hinh": "tv5",
+  "lop": 5,
+  "goc": "",
+  "ds": [
+   {
+    "k": "khoi",
+    "t": "Học kì 1"
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai01",
+    "lid": "TiengViet5_Bai01",
+    "t": "Thanh âm của gió",
+    "so": 1
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai02",
+    "lid": "TiengViet5_Bai02",
+    "t": "Cánh đồng hoa",
+    "so": 2
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai03",
+    "lid": "TiengViet5_Bai03",
+    "t": "Tuổi Ngựa",
+    "so": 3
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai04",
+    "lid": "TiengViet5_Bai04",
+    "t": "Bến sông tuổi thơ",
+    "so": 4
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai05",
+    "lid": "TiengViet5_Bai05",
+    "t": "Tiếng hạt nảy mầm",
+    "so": 5
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai06",
+    "lid": "TiengViet5_Bai06",
+    "t": "Ngôi sao sân cỏ",
+    "so": 6
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai07",
+    "lid": "TiengViet5_Bai07",
+    "t": "Bộ sưu tập độc đáo",
+    "so": 7
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai08",
+    "lid": "TiengViet5_Bai08",
+    "t": "Hành tinh kì lạ",
+    "so": 8
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai09",
+    "lid": "TiengViet5_Bai09",
+    "t": "Trước cổng trời",
+    "so": 9
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai10",
+    "lid": "TiengViet5_Bai10",
+    "t": "Kì diệu rừng xanh",
+    "so": 10
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai11",
+    "lid": "TiengViet5_Bai11",
+    "t": "Hang Sơn Đoòng – những điều kì thú",
+    "so": 11
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai12",
+    "lid": "TiengViet5_Bai12",
+    "t": "Những hòn đảo trên vịnh Hạ Long",
+    "so": 12
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai13",
+    "lid": "TiengViet5_Bai13",
+    "t": "Mầm non",
+    "so": 13
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai14",
+    "lid": "TiengViet5_Bai14",
+    "t": "Những ngọn núi nóng rẫy",
+    "so": 14
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai15",
+    "lid": "TiengViet5_Bai15",
+    "t": "Bài ca về mặt trời",
+    "so": 15
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai16",
+    "lid": "TiengViet5_Bai16",
+    "t": "Xin chào, Xa-ha-ra",
+    "so": 16
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập giữa học kì 1"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet5-gk1de1",
+    "lid": "TiengViet5_GK1De1",
+    "t": "Giữa học kì 1 – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet5-gk1de2",
+    "lid": "TiengViet5_GK1De2",
+    "t": "Giữa học kì 1 – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet5-gk1de3",
+    "lid": "TiengViet5_GK1De3",
+    "t": "Giữa học kì 1 – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet5-gk1de4",
+    "lid": "TiengViet5_GK1De4",
+    "t": "Giữa học kì 1 – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet5-gk1de5",
+    "lid": "TiengViet5_GK1De5",
+    "t": "Giữa học kì 1 – Đề 5",
+    "so": "5"
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai17",
+    "lid": "TiengViet5_Bai17",
+    "t": "Thư gửi các học sinh",
+    "so": 17
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai18",
+    "lid": "TiengViet5_Bai18",
+    "t": "Tấm gương tự học",
+    "so": 18
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai19",
+    "lid": "TiengViet5_Bai19",
+    "t": "Trải nghiệm để sáng tạo",
+    "so": 19
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai20",
+    "lid": "TiengViet5_Bai20",
+    "t": "Khổ luyện thành tài",
+    "so": 20
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai21",
+    "lid": "TiengViet5_Bai21",
+    "t": "Thế giới trong trang sách",
+    "so": 21
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai22",
+    "lid": "TiengViet5_Bai22",
+    "t": "Từ những câu chuyện ấu thơ",
+    "so": 22
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai23",
+    "lid": "TiengViet5_Bai23",
+    "t": "Giới thiệu sách Dế Mèn phiêu lưu kí",
+    "so": 23
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai24",
+    "lid": "TiengViet5_Bai24",
+    "t": "Tinh thần học tập của nhà Phi-lít",
+    "so": 24
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai25",
+    "lid": "TiengViet5_Bai25",
+    "t": "Tiếng đàn ba-la-lai-ca trên sông Đà",
+    "so": 25
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai26",
+    "lid": "TiengViet5_Bai26",
+    "t": "Trí tưởng tượng phong phú",
+    "so": 26
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai27",
+    "lid": "TiengViet5_Bai27",
+    "t": "Tranh làng Hồ",
+    "so": 27
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai28",
+    "lid": "TiengViet5_Bai28",
+    "t": "Tập hát quan họ",
+    "so": 28
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai29",
+    "lid": "TiengViet5_Bai29",
+    "t": "Phim hoạt hình Chú ốc sên bay",
+    "so": 29
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai30",
+    "lid": "TiengViet5_Bai30",
+    "t": "Nghệ thuật múa ba lê",
+    "so": 30
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai31",
+    "lid": "TiengViet5_Bai31",
+    "t": "Một ngôi chùa độc đáo",
+    "so": 31
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai32",
+    "lid": "TiengViet5_Bai32",
+    "t": "Sự tích chú Tễu",
+    "so": 32
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập cuối học kì 1"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet5-ck1de1",
+    "lid": "TiengViet5_CK1De1",
+    "t": "Cuối học kì 1 – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet5-ck1de2",
+    "lid": "TiengViet5_CK1De2",
+    "t": "Cuối học kì 1 – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet5-ck1de3",
+    "lid": "TiengViet5_CK1De3",
+    "t": "Cuối học kì 1 – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet5-ck1de4",
+    "lid": "TiengViet5_CK1De4",
+    "t": "Cuối học kì 1 – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet5-ck1de5",
+    "lid": "TiengViet5_CK1De5",
+    "t": "Cuối học kì 1 – Đề 5",
+    "so": "5"
+   },
+   {
+    "k": "khoi",
+    "t": "Học kì 2"
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai33",
+    "lid": "TiengViet5_Bai33",
+    "t": "Tiếng hát của người đá",
+    "so": 33
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai34",
+    "lid": "TiengViet5_Bai34",
+    "t": "Khúc hát ru những em bé lớn trên lưng mẹ",
+    "so": 34
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai35",
+    "lid": "TiengViet5_Bai35",
+    "t": "Hạt gạo làng ta",
+    "so": 35
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai36",
+    "lid": "TiengViet5_Bai36",
+    "t": "Hộp quà màu thiên thanh",
+    "so": 36
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai37",
+    "lid": "TiengViet5_Bai37",
+    "t": "Giỏ hoa tháng Năm",
+    "so": 37
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai38",
+    "lid": "TiengViet5_Bai38",
+    "t": "Thư của bố",
+    "so": 38
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai39",
+    "lid": "TiengViet5_Bai39",
+    "t": "Đoàn thuyền đánh cá",
+    "so": 39
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai40",
+    "lid": "TiengViet5_Bai40",
+    "t": "Khu rừng của Mát",
+    "so": 40
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai41",
+    "lid": "TiengViet5_Bai41",
+    "t": "Hội thổi cơm thi ở Đồng Vân",
+    "so": 41
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai42",
+    "lid": "TiengViet5_Bai42",
+    "t": "Những búp chè trên cây cổ thụ",
+    "so": 42
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai43",
+    "lid": "TiengViet5_Bai43",
+    "t": "Hương cốm mùa thu",
+    "so": 43
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai44",
+    "lid": "TiengViet5_Bai44",
+    "t": "Vũ điệu trên nền thổ cẩm",
+    "so": 44
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai45",
+    "lid": "TiengViet5_Bai45",
+    "t": "Đàn t'rưng – tiếng ca đại ngàn",
+    "so": 45
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai46",
+    "lid": "TiengViet5_Bai46",
+    "t": "Đường quê Đồng Tháp Mười",
+    "so": 46
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai47",
+    "lid": "TiengViet5_Bai47",
+    "t": "Xuồng ba lá quê tôi",
+    "so": 47
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai48",
+    "lid": "TiengViet5_Bai48",
+    "t": "Về thăm Đất Mũi",
+    "so": 48
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập giữa học kì 2"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet5-gk2de1",
+    "lid": "TiengViet5_GK2De1",
+    "t": "Giữa học kì 2 – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet5-gk2de2",
+    "lid": "TiengViet5_GK2De2",
+    "t": "Giữa học kì 2 – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet5-gk2de3",
+    "lid": "TiengViet5_GK2De3",
+    "t": "Giữa học kì 2 – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet5-gk2de4",
+    "lid": "TiengViet5_GK2De4",
+    "t": "Giữa học kì 2 – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet5-gk2de5",
+    "lid": "TiengViet5_GK2De5",
+    "t": "Giữa học kì 2 – Đề 5",
+    "so": "5"
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai49",
+    "lid": "TiengViet5_Bai49",
+    "t": "Nghìn năm văn hiến",
+    "so": 49
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai50",
+    "lid": "TiengViet5_Bai50",
+    "t": "Người thầy của muôn đời",
+    "so": 50
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai51",
+    "lid": "TiengViet5_Bai51",
+    "t": "Danh y Tuệ Tĩnh",
+    "so": 51
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai52",
+    "lid": "TiengViet5_Bai52",
+    "t": "Cụ Đồ Chiểu",
+    "so": 52
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai53",
+    "lid": "TiengViet5_Bai53",
+    "t": "Anh hùng Lao động Trần Đại Nghĩa",
+    "so": 53
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai54",
+    "lid": "TiengViet5_Bai54",
+    "t": "Bộ đội về làng",
+    "so": 54
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai55",
+    "lid": "TiengViet5_Bai55",
+    "t": "Về ngôi nhà đang xây",
+    "so": 55
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai56",
+    "lid": "TiengViet5_Bai56",
+    "t": "Việt Nam quê hương ta",
+    "so": 56
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai57",
+    "lid": "TiengViet5_Bai57",
+    "t": "Bài ca trái đất",
+    "so": 57
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai58",
+    "lid": "TiengViet5_Bai58",
+    "t": "Những con hạc giấy",
+    "so": 58
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai59",
+    "lid": "TiengViet5_Bai59",
+    "t": "Một người hùng thầm lặng",
+    "so": 59
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai60",
+    "lid": "TiengViet5_Bai60",
+    "t": "Giờ Trái Đất",
+    "so": 60
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai61",
+    "lid": "TiengViet5_Bai61",
+    "t": "Điện thoại di động",
+    "so": 61
+   },
+   {
+    "k": "bai",
+    "s": "tiengviet5-bai62",
+    "lid": "TiengViet5_Bai62",
+    "t": "Thành phố thông minh Mát-xđa",
+    "so": 62
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập cuối năm"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet5-cnde1",
+    "lid": "TiengViet5_CNDe1",
+    "t": "Cuối năm – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet5-cnde2",
+    "lid": "TiengViet5_CNDe2",
+    "t": "Cuối năm – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet5-cnde3",
+    "lid": "TiengViet5_CNDe3",
+    "t": "Cuối năm – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet5-cnde4",
+    "lid": "TiengViet5_CNDe4",
+    "t": "Cuối năm – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "tiengviet5-cnde5",
+    "lid": "TiengViet5_CNDe5",
+    "t": "Cuối năm – Đề 5",
+    "so": "5"
+   }
+  ]
+ }
+]
