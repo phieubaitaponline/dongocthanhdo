@@ -5472,6 +5472,460 @@
   ]
  },
  {
+  "ma": "tienganh4",
+  "ten": "Tiếng Anh 4",
+  "hinh": "ta4",
+  "lop": 4,
+  "goc": "",
+  "ds": [
+   {
+    "k": "khoi",
+    "t": "Học kì 1"
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai01",
+    "lid": "TiengAnh4_Bai01",
+    "t": "Unit 1. My friends – Phiếu 1",
+    "so": 1
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai02",
+    "lid": "TiengAnh4_Bai02",
+    "t": "Unit 1. My friends – Phiếu 2",
+    "so": 2
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai03",
+    "lid": "TiengAnh4_Bai03",
+    "t": "Unit 2. Time and daily routines – Phiếu 1",
+    "so": 3
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai04",
+    "lid": "TiengAnh4_Bai04",
+    "t": "Unit 2. Time and daily routines – Phiếu 2",
+    "so": 4
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai05",
+    "lid": "TiengAnh4_Bai05",
+    "t": "Unit 3. My week – Phiếu 1",
+    "so": 5
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai06",
+    "lid": "TiengAnh4_Bai06",
+    "t": "Unit 3. My week – Phiếu 2",
+    "so": 6
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai07",
+    "lid": "TiengAnh4_Bai07",
+    "t": "Unit 4. My birthday party – Phiếu 1",
+    "so": 7
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai08",
+    "lid": "TiengAnh4_Bai08",
+    "t": "Unit 4. My birthday party – Phiếu 2",
+    "so": 8
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai09",
+    "lid": "TiengAnh4_Bai09",
+    "t": "Unit 5. Things we can do – Phiếu 1",
+    "so": 9
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai10",
+    "lid": "TiengAnh4_Bai10",
+    "t": "Unit 5. Things we can do – Phiếu 2",
+    "so": 10
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập giữa học kì 1"
+   },
+   {
+    "k": "de",
+    "s": "tienganh4-gk1de1",
+    "lid": "TiengAnh4_GK1De1",
+    "t": "Giữa học kì 1 – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "tienganh4-gk1de2",
+    "lid": "TiengAnh4_GK1De2",
+    "t": "Giữa học kì 1 – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "tienganh4-gk1de3",
+    "lid": "TiengAnh4_GK1De3",
+    "t": "Giữa học kì 1 – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "tienganh4-gk1de4",
+    "lid": "TiengAnh4_GK1De4",
+    "t": "Giữa học kì 1 – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "tienganh4-gk1de5",
+    "lid": "TiengAnh4_GK1De5",
+    "t": "Giữa học kì 1 – Đề 5",
+    "so": "5"
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai11",
+    "lid": "TiengAnh4_Bai11",
+    "t": "Unit 6. Our school facilities – Phiếu 1",
+    "so": 11
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai12",
+    "lid": "TiengAnh4_Bai12",
+    "t": "Unit 6. Our school facilities – Phiếu 2",
+    "so": 12
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai13",
+    "lid": "TiengAnh4_Bai13",
+    "t": "Unit 7. Our timetables – Phiếu 1",
+    "so": 13
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai14",
+    "lid": "TiengAnh4_Bai14",
+    "t": "Unit 7. Our timetables – Phiếu 2",
+    "so": 14
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai15",
+    "lid": "TiengAnh4_Bai15",
+    "t": "Unit 8. My favourite subjects – Phiếu 1",
+    "so": 15
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai16",
+    "lid": "TiengAnh4_Bai16",
+    "t": "Unit 8. My favourite subjects – Phiếu 2",
+    "so": 16
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai17",
+    "lid": "TiengAnh4_Bai17",
+    "t": "Unit 9. Our sports day – Phiếu 1",
+    "so": 17
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai18",
+    "lid": "TiengAnh4_Bai18",
+    "t": "Unit 9. Our sports day – Phiếu 2",
+    "so": 18
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai19",
+    "lid": "TiengAnh4_Bai19",
+    "t": "Unit 10. Our summer holidays – Phiếu 1",
+    "so": 19
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai20",
+    "lid": "TiengAnh4_Bai20",
+    "t": "Unit 10. Our summer holidays – Phiếu 2",
+    "so": 20
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập cuối học kì 1"
+   },
+   {
+    "k": "de",
+    "s": "tienganh4-ck1de1",
+    "lid": "TiengAnh4_CK1De1",
+    "t": "Cuối học kì 1 – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "tienganh4-ck1de2",
+    "lid": "TiengAnh4_CK1De2",
+    "t": "Cuối học kì 1 – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "tienganh4-ck1de3",
+    "lid": "TiengAnh4_CK1De3",
+    "t": "Cuối học kì 1 – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "tienganh4-ck1de4",
+    "lid": "TiengAnh4_CK1De4",
+    "t": "Cuối học kì 1 – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "tienganh4-ck1de5",
+    "lid": "TiengAnh4_CK1De5",
+    "t": "Cuối học kì 1 – Đề 5",
+    "so": "5"
+   },
+   {
+    "k": "khoi",
+    "t": "Học kì 2"
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai21",
+    "lid": "TiengAnh4_Bai21",
+    "t": "Unit 11. My home – Phiếu 1",
+    "so": 21
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai22",
+    "lid": "TiengAnh4_Bai22",
+    "t": "Unit 11. My home – Phiếu 2",
+    "so": 22
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai23",
+    "lid": "TiengAnh4_Bai23",
+    "t": "Unit 12. Jobs – Phiếu 1",
+    "so": 23
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai24",
+    "lid": "TiengAnh4_Bai24",
+    "t": "Unit 12. Jobs – Phiếu 2",
+    "so": 24
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai25",
+    "lid": "TiengAnh4_Bai25",
+    "t": "Unit 13. Appearance – Phiếu 1",
+    "so": 25
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai26",
+    "lid": "TiengAnh4_Bai26",
+    "t": "Unit 13. Appearance – Phiếu 2",
+    "so": 26
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai27",
+    "lid": "TiengAnh4_Bai27",
+    "t": "Unit 14. Daily activities – Phiếu 1",
+    "so": 27
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai28",
+    "lid": "TiengAnh4_Bai28",
+    "t": "Unit 14. Daily activities – Phiếu 2",
+    "so": 28
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai29",
+    "lid": "TiengAnh4_Bai29",
+    "t": "Unit 15. My family's weekends – Phiếu 1",
+    "so": 29
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai30",
+    "lid": "TiengAnh4_Bai30",
+    "t": "Unit 15. My family's weekends – Phiếu 2",
+    "so": 30
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập giữa học kì 2"
+   },
+   {
+    "k": "de",
+    "s": "tienganh4-gk2de1",
+    "lid": "TiengAnh4_GK2De1",
+    "t": "Giữa học kì 2 – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "tienganh4-gk2de2",
+    "lid": "TiengAnh4_GK2De2",
+    "t": "Giữa học kì 2 – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "tienganh4-gk2de3",
+    "lid": "TiengAnh4_GK2De3",
+    "t": "Giữa học kì 2 – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "tienganh4-gk2de4",
+    "lid": "TiengAnh4_GK2De4",
+    "t": "Giữa học kì 2 – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "tienganh4-gk2de5",
+    "lid": "TiengAnh4_GK2De5",
+    "t": "Giữa học kì 2 – Đề 5",
+    "so": "5"
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai31",
+    "lid": "TiengAnh4_Bai31",
+    "t": "Unit 16. Weather – Phiếu 1",
+    "so": 31
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai32",
+    "lid": "TiengAnh4_Bai32",
+    "t": "Unit 16. Weather – Phiếu 2",
+    "so": 32
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai33",
+    "lid": "TiengAnh4_Bai33",
+    "t": "Unit 17. In the city – Phiếu 1",
+    "so": 33
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai34",
+    "lid": "TiengAnh4_Bai34",
+    "t": "Unit 17. In the city – Phiếu 2",
+    "so": 34
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai35",
+    "lid": "TiengAnh4_Bai35",
+    "t": "Unit 18. At the shopping centre – Phiếu 1",
+    "so": 35
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai36",
+    "lid": "TiengAnh4_Bai36",
+    "t": "Unit 18. At the shopping centre – Phiếu 2",
+    "so": 36
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai37",
+    "lid": "TiengAnh4_Bai37",
+    "t": "Unit 19. The animal world – Phiếu 1",
+    "so": 37
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai38",
+    "lid": "TiengAnh4_Bai38",
+    "t": "Unit 19. The animal world – Phiếu 2",
+    "so": 38
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai39",
+    "lid": "TiengAnh4_Bai39",
+    "t": "Unit 20. At summer camp – Phiếu 1",
+    "so": 39
+   },
+   {
+    "k": "bai",
+    "s": "tienganh4-bai40",
+    "lid": "TiengAnh4_Bai40",
+    "t": "Unit 20. At summer camp – Phiếu 2",
+    "so": 40
+   },
+   {
+    "k": "on",
+    "t": "Ôn tập cuối năm"
+   },
+   {
+    "k": "de",
+    "s": "tienganh4-cnde1",
+    "lid": "TiengAnh4_CNDe1",
+    "t": "Cuối năm – Đề 1",
+    "so": "1"
+   },
+   {
+    "k": "de",
+    "s": "tienganh4-cnde2",
+    "lid": "TiengAnh4_CNDe2",
+    "t": "Cuối năm – Đề 2",
+    "so": "2"
+   },
+   {
+    "k": "de",
+    "s": "tienganh4-cnde3",
+    "lid": "TiengAnh4_CNDe3",
+    "t": "Cuối năm – Đề 3",
+    "so": "3"
+   },
+   {
+    "k": "de",
+    "s": "tienganh4-cnde4",
+    "lid": "TiengAnh4_CNDe4",
+    "t": "Cuối năm – Đề 4",
+    "so": "4"
+   },
+   {
+    "k": "de",
+    "s": "tienganh4-cnde5",
+    "lid": "TiengAnh4_CNDe5",
+    "t": "Cuối năm – Đề 5",
+    "so": "5"
+   }
+  ],
+  "tenrieng": 1
+ },
+ {
   "ma": "toan5",
   "ten": "Toán 5",
   "hinh": "toan5",
