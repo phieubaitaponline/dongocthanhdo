@@ -462,7 +462,7 @@ main{flex-direction:column; align-items:stretch; max-width:1240px;}
 .gui-tt{margin:16px auto 0;max-width:640px;padding:10px 16px;border-radius:12px;font-weight:700;text-align:center;line-height:1.45;background:#FFF6E0;color:#7A5200;border:1px solid #F3DFA8}
 .gui-tt:empty{display:none}
 .gui-tt.xong{background:#E6F6EA;color:#1E6B34;border-color:#BFE3C8}
-/* === BẢN DANH SÁCH 24/11/2026 === */
+/* === CỔNG PHIẾU BÀI TẬP ONLINE 24/11/2026 === */
 .hdr-act{position:absolute; right:24px; top:50%; transform:translateY(-50%); display:flex; flex-direction:column; align-items:flex-end; gap:10px; z-index:5;}
 .ve-ds{display:inline-flex; align-items:center; gap:6px; background:#fff; color:var(--violet); font-weight:800; text-decoration:none;
   border:2px solid var(--violet); border-radius:999px; padding:8px 18px; box-shadow:0 6px 16px rgba(124,92,252,.18); font-size:1rem;}
@@ -472,9 +472,14 @@ main{flex-direction:column; align-items:stretch; max-width:1240px;}
 @media (max-width:1180px){ .hdr-act{position:static; transform:none; flex-direction:row; justify-content:center; flex-wrap:wrap; margin:0 auto 8px;} }
 @media (max-width:700px){ .ve-ds{font-size:.92rem; padding:6px 14px;} .noibo{font-size:.72rem;} }
 </style></head>
+<script>/* === CỔNG PHIẾU BÀI TẬP ONLINE 24/11/2026 === */
+(function(){ var hs=null; try{ hs=JSON.parse(localStorage.getItem('ptbo_hs')||'null'); }catch(e){}
+  if(!hs||!hs.ok){ location.replace('../../'); return; }
+  try{ if(!sessionStorage.getItem('rp_name')){ sessionStorage.setItem('rp_name',hs.ten); sessionStorage.setItem('rp_class',hs.lop); } }catch(e){} })();
+</script>
 <body class="part-nhan-biet">
 <header class="topbar">
-  <div class="teacher"><img src="avatar.jpg" alt="Ảnh giáo viên"><div class="tinfo"><b>PHIẾU BÀI TẬP TOÁN 4</b><span aria-label="Họ và tên"><svg viewBox="0 0 24 24" aria-hidden="true" style="width:1.05em;height:1.05em;vertical-align:-0.17em;margin-right:6px;fill:none;stroke:var(--violet);stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round"><circle cx="12" cy="8" r="4"/><path d="M4 21c0-4.4 3.6-7 8-7s8 2.6 8 7"/></svg>ĐỖ NGỌC THÀNH ĐÔ</span><br><span><svg viewBox="0 0 24 24" aria-hidden="true" style="width:1.05em;height:1.05em;vertical-align:-0.17em;margin-right:6px;fill:none;stroke:var(--violet);stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round"><path d="M5 3.5h3.5l2 5-2.4 1.6a11 11 0 005.8 5.8l1.6-2.4 5 2V19a2 2 0 01-2 2A17 17 0 013 5.5a2 2 0 012-2z"/></svg><a href="tel:0364916102">0364 916 102</a></span></div></div><div class="hdr-act"><a class="ve-ds" href="../" aria-label="Về danh sách bài">← Danh sách bài</a><span class="noibo">Bản lưu hành nội bộ</span></div>
+  <div class="teacher"><img src="avatar.jpg" alt="Ảnh giáo viên"><div class="tinfo"><b>PHIẾU BÀI TẬP ONLINE</b><span aria-label="Họ và tên"><svg viewBox="0 0 24 24" aria-hidden="true" style="width:1.05em;height:1.05em;vertical-align:-0.17em;margin-right:6px;fill:none;stroke:var(--violet);stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round"><circle cx="12" cy="8" r="4"/><path d="M4 21c0-4.4 3.6-7 8-7s8 2.6 8 7"/></svg>ĐỖ NGỌC THÀNH ĐÔ</span><br><span><svg viewBox="0 0 24 24" aria-hidden="true" style="width:1.05em;height:1.05em;vertical-align:-0.17em;margin-right:6px;fill:none;stroke:var(--violet);stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round"><path d="M5 3.5h3.5l2 5-2.4 1.6a11 11 0 005.8 5.8l1.6-2.4 5 2V19a2 2 0 01-2 2A17 17 0 013 5.5a2 2 0 012-2z"/></svg><a href="tel:0364916102">0364 916 102</a></span></div></div><div class="hdr-act"><a class="ve-ds" href="../../#mon/toan4">← Danh sách bài</a><span class="noibo">Bản lưu hành nội bộ</span></div>
   <h1>Bài 21. Luyện tập chung</h1>
   <p>Bộ bài tập tương tác · 18 câu</p>
 </header>
@@ -1036,9 +1041,9 @@ function showResult(){
 function closeCourse(){ if(!reported){reported=true; SCORM.report(S.reduce((a,_,i)=>a+points(i),0),N,usedSec,'');}
   phase='done'; SCORM.finish(true);             // LMS SCORM 2004 nhận exitAll và tự đóng / quay về trang khoá học
   const tryClose=w=>{try{ if(w&&!w.closed) w.close(); }catch(e){}};
-  void tryClose; /* === BẢN DANH SÁCH 24/11/2026 === */
+  void tryClose; /* === CỔNG PHIẾU BÀI TẬP ONLINE 24/11/2026 === */
   const b=document.getElementById('endBtn'); if(b){b.textContent='Đang về danh sách bài…'; b.disabled=true;}
-  setTimeout(()=>{ location.href='../'; },350); }
+  setTimeout(()=>{ location.href='../../#mon/toan4'; },350); }
 
 /* ================= KHOÁ ĐIỀU HƯỚNG: nút Back + phím tắt ================= */
 window.addEventListener('popstate',()=>{ if(phase==='quiz') history.pushState({q:1},'',location.href); });
@@ -1387,4 +1392,11 @@ function hienPhanHoi(){ if(phase!=='quiz') return;
     const fb=k.card.querySelector('.fb'); const lim=(fb?fb.getBoundingClientRect().top:r.top)-k.sbH-10;
     const d=Math.min(want, lim); if(d>0) window.scrollBy({top:d, behavior:'smooth'}); }, 60); }
 renderIntro();
+</script><script>/* === CỔNG PHIẾU BÀI TẬP ONLINE 24/11/2026 === */
+(function(){ function luu(){ try{ const r=REPORT.build(); const k=s=>String(s||'').toLowerCase().normalize('NFC').replace(/\s+/g,' ').trim();
+    const key='ptbo_diem|'+k(r.name)+'|'+k(r.cls); const o=JSON.parse(localStorage.getItem(key)||'{}');
+    o[LESSON_ID]={d:r.score10,dung:r.correct,tong:r.total,t:Date.now()}; localStorage.setItem(key,JSON.stringify(o));
+    localStorage.setItem('ptbo_kq',JSON.stringify({lid:LESSON_ID,mon:'toan4',ten:document.title.replace(/^[^–]*–\s*/,''),d:r.score10,dung:r.correct,tong:r.total,t:Date.now()}));
+  }catch(e){} }
+  const o=REPORT.onResult; REPORT.onResult=function(){ const v=o.apply(this,arguments); luu(); return v; }; })();
 </script></body></html>
