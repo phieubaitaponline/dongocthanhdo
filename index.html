@@ -74,7 +74,8 @@ h2.tieu{font-size:1.7rem; margin:6px 4px 14px;}
 .muc.tiep{border-color:#FFC942; box-shadow:0 0 0 3px rgba(255,201,66,.35);}
 .muc .ten{flex:1; line-height:1.3;}
 .tt{flex:0 0 auto; font-size:.8rem; font-weight:800; border-radius:999px; padding:4px 10px; white-space:nowrap;}
-.tt.nop{background:#D4EDDA; color:#1E6B34;} .tt.dang{background:#FFF3C4; color:#8A6100;} .tt.tiep{background:#FFC942; color:#5A3B00;}
+.tt.nop{background:#D4EDDA; color:#1E6B34;} .tt small{font-weight:700; opacity:.85;}
+.muc .tts{display:flex; flex-direction:column; align-items:flex-end; gap:4px;} .tt.dang{background:#FFF3C4; color:#8A6100;} .tt.tiep{background:#FFC942; color:#5A3B00;}
 /* ---- thông báo ---- */
 .tb{position:fixed; left:50%; top:86px; transform:translate(-50%,calc(-100% - 120px)); z-index:60; width:min(520px,calc(100% - 24px)); background:#fff; border-radius:20px;
   box-shadow:0 18px 40px rgba(58,46,92,.25); padding:16px 18px; border:3px solid #7BD9A6; transition:transform .35s cubic-bezier(.2,.9,.3,1.2), opacity .25s;
@@ -140,7 +141,7 @@ function hs(){ return ls.get('ptbo_hs',null); }
 function datPhien(h){ try{ sessionStorage.setItem('rp_name',h.ten); sessionStorage.setItem('rp_class',h.lop); }catch(e){} }
 function diem(){ const h=hs(); return h?ls.get('ptbo_diem|'+k(h.ten)+'|'+k(h.lop),{}):{}; }
 function trang(lid){ const h=hs(); if(!h) return {}; const dd=diem()[lid]; let st=null; try{ st=JSON.parse(localStorage.getItem('bt_'+lid+'|'+k(h.ten)+'|'+k(h.lop))||'null'); }catch(e){}
-  if(dd) return {xong:1,d:dd.d}; if(st&&st.done) return {xong:1}; if(st&&st.attemptId) return {dang:1}; return {}; }
+  if(dd) return {xong:1,d:dd.d,n:dd.n||1,lai:!!(st&&st.attemptId&&!st.done)}; if(st&&st.done) return {xong:1}; if(st&&st.attemptId) return {dang:1}; return {}; }
 const fmt=d=>(Math.round(d*10)/10).toString().replace('.',',');
 function tienDo(m){ const it=m.ds.filter(x=>x.k==='bai'||x.k==='de'); let xong=0, tong=0, nd=0; it.forEach(x=>{ const t=trang(x.lid); if(t.xong){ xong++; if(t.d!=null){tong+=t.d; nd++;} } });
   return {xong, n:it.length, tb:nd?tong/nd:null}; }
@@ -164,8 +165,8 @@ function moMon(ma,keo){ const m=MON.find(x=>x.ma===ma); if(!m){ moChon(); return
     if(x.k==='khoi'){ dong(); out+=`<div class="khoi">${x.t}</div>`; continue; }
     if(x.k==='on'){ dong(); out+=`<div class="on-tap">📝 ${x.t}</div>`; continue; }
     moDs(); const t=trang(x.lid), la=x.lid===tiep;
-    const tt=t.xong?`<span class="tt nop">✓ ${t.d!=null?fmt(t.d)+' điểm':'Đã nộp'}</span>`:t.dang?'<span class="tt dang">Đang làm</span>':la?'<span class="tt tiep">Làm tiếp</span>':'';
-    out+=`<a class="muc ${x.k==='de'?'de':''} ${t.xong?'xong':''} ${la?'tiep':''}" id="m_${x.lid}" href="${m.goc||''}${m.ma}/${x.s}/"><span class="so">${x.k==='de'?'Đề '+x.so:x.so}</span><span class="ten">${x.k==='de'||m.tenrieng?x.t:'Bài '+x.so+'. '+x.t}</span>${tt}</a>`; }
+    const tt=t.xong?(t.d!=null?`<span class="tt nop" title="Điểm cao nhất${t.n>1?' sau '+t.n+' lần làm':''}">⭐ Cao nhất ${fmt(t.d)}${t.n>1?`<small> · ${t.n} lần</small>`:''}</span>`:'<span class="tt nop">✓ Đã nộp</span>')+(t.lai?'<span class="tt dang">Đang làm lại</span>':''):t.dang?'<span class="tt dang">Đang làm</span>':la?'<span class="tt tiep">Làm tiếp</span>':'';
+    out+=`<a class="muc ${x.k==='de'?'de':''} ${t.xong?'xong':''} ${la?'tiep':''}" id="m_${x.lid}" href="${m.goc||''}${m.ma}/${x.s}/"><span class="so">${x.k==='de'?'Đề '+x.so:x.so}</span><span class="ten">${x.k==='de'||m.tenrieng?x.t:'Bài '+x.so+'. '+x.t}</span>${tt?'<span class="tts">'+tt+'</span>':''}</a>`; }
   dong(); document.getElementById('khungDs').innerHTML=out; hien('dsmon');
   if(keo){ const el=document.getElementById('m_'+keo)||document.getElementById('m_'+tiep); if(el) setTimeout(()=>el.scrollIntoView({block:'center',behavior:'smooth'}),120); } }
 let hTb=0; function anTb(){ document.getElementById('tb').classList.remove('hien'); }
@@ -173,7 +174,8 @@ function thongBao(){ const kq=ls.get('ptbo_kq',null); if(!kq) return null; ls.de
   const m=MON.find(x=>x.ma===kq.mon); if(!m) return null; const p=tienDo(m);
   document.getElementById('tbDiem').innerHTML=`<b>${fmt(kq.d)}</b><small>điểm</small>`;
   document.getElementById('tbT').textContent='Hoàn thành: '+kq.ten;
-  document.getElementById('tbP').textContent=`Đúng ${kq.dung}/${kq.tong} câu · Tiến độ ${m.ten}: ${p.xong}/${p.n} phiếu`;
+  const them=kq.lan>1?(kq.ky?` · 🎉 Điểm cao nhất mới (lần ${kq.lan})`:` · Điểm cao nhất vẫn là ${fmt(kq.cao)} (lần ${kq.lan})`):'';
+  document.getElementById('tbP').textContent=`Đúng ${kq.dung}/${kq.tong} câu${them} · Tiến độ ${m.ten}: ${p.xong}/${p.n} phiếu`;
   document.getElementById('tbTh').style.width=Math.round(p.xong/p.n*100)+'%';
   const tb=document.getElementById('tb'); tb.style.borderColor=kq.d>=8?'#7BD9A6':kq.d>=5?'#FFC942':'#F39AB6';
   document.getElementById('tbDiem').style.background=kq.d>=8?'linear-gradient(135deg,#3ED598,#1FB463)':kq.d>=5?'linear-gradient(135deg,#FFC942,#FF9A3D)':'linear-gradient(135deg,#FF8DA1,#FF5A6E)';
